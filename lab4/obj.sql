@@ -40,7 +40,7 @@ SELECT * FROM numToursPerMonth(12);
 --Табличная функция
 --Еда заданной категории, меню и баром
 DROP FUNCTION IF EXISTS foodVar;
-CREATE OR REPLACE FUNCTION foodVar(catf varchar(30), vegf bool, childf bool, barf bool)
+CREATE FUNCTION foodVar(catf varchar(30), vegf bool, childf bool, barf bool)
 RETURNS SETOF Food
 AS $$
 	foods = plpy.execute("SELECT * FROM Food;")
@@ -48,7 +48,7 @@ AS $$
 	
 	for food in foods:
 		if food['category'] == catf and food['vegmenu'] == vegf and food['childrenmenu'] == childf and food['bar'] == barf:
-			resfood.append(food);
+			resfood.append(food)
 
 	return resfood
 $$ LANGUAGE plpythonu;
@@ -114,34 +114,35 @@ ORDER BY HotelID DESC;
 
 
 --Определяемый пользователем тип данных
-create type plane; -- "(model, places)"
+DROP FUNCTION IF EXISTS getFullToursOnDuring;
+DROP TYPE IF EXISTS FullTour;
+CREATE TYPE FullTour AS 
+(
+	TourID int,
+	HotelName varchar,
+	FoodCategory varchar,
+	City varchar,
+	FullCost int,
+	During int
+);
 
-create or replace function plane_in(cstring) returns plane
-as
-'plane.so',
-'plane_in'
-    language C immutable
-               strict;
+CREATE FUNCTION getFullToursOnDuring(dur int)
+RETURNS SETOF FullTour
+AS $$
 
-create or replace function plane_out(plane) returns cstring
-as
-'$libdir/plane',
-'plane_out'
-    language C immutable
-               strict;
+	restours = list()
+	
+	plan = plpy.prepare("SELECT Tour.TourID, Hotel.Name as HotelName, Food.Category as FoodCategory, City.Name as City, Food.Cost + Tour.Cost + Hotel.Cost as FullCost, DateEnd - DateBegin as During FROM Food JOIN Tour ON Food.FoodID = Tour.Food JOIN Hotel ON Tour.Hotel = Hotel.HotelID JOIN City ON Hotel.City = City.CityID WHERE DateEnd - DateBegin < $1;", ["int"])
+	tours = plpy.execute(plan, [dur])
 
-drop type plane cascade;
-create type plane (
-    internallength = 34,
-    input = plane_in,
-    output = plane_out
-    );
+	for tour in tours:
+		restours.append(tour)
+	return restours
+	
+$$ LANGUAGE plpythonu;
 
-select '(Superjet, 2300)'::plane;
-
-
-
-
+SELECT * FROM getFullToursOnDuring(8)
+ORDER BY FullCost;
 
 
 
