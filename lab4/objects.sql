@@ -4,11 +4,20 @@ DROP FUNCTION IF EXISTS avgCostHotels;
 CREATE OR REPLACE FUNCTION avgCostHotels(classID int)
 RETURNS NUMERIC
 AS $$
-	HClassCost = plpy.execute("SELECT Class, AVG(COST) AS avgCost FROM Hotel GROUP BY Class;")
-	for HClass in HClassCost:
-		if HClass['class'] == classid:
-			return HClass['avgcost']
-	return -1
+	hotels = plpy.execute("SELECT Class, Cost FROM Hotel;")
+
+	numHotels = 0
+	cost = 0
+
+	for hotel in hotels:
+		if hotel['class'] == classid:
+			cost += hotel['cost']
+			numHotels += 1
+
+	if numHotels > 0:
+		return cost / numHotels
+	return None
+	
 $$ LANGUAGE plpythonu;
 
 SELECT * FROM avgCostHotels(0);
@@ -174,7 +183,6 @@ AS $$
 $$ LANGUAGE plpythonu;
 
 SELECT * FROM getFullToursOnDuring(8);
-
 
 
 
