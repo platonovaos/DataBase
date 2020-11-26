@@ -26,7 +26,7 @@ SELECT * FROM avgCostHotels(5);
 
 
 --Агрегатная функция
---Количество туров за указанный месяц
+--a)Количество туров за указанный месяц
 DROP FUNCTION IF EXISTS numToursPerMonth;
 CREATE OR REPLACE FUNCTION numToursPerMonth(monthID int)
 RETURNS INT
@@ -44,6 +44,72 @@ $$ LANGUAGE plpythonu;
 SELECT * FROM numToursPerMonth(1);
 SELECT * FROM numToursPerMonth(6);
 SELECT * FROM numToursPerMonth(12);
+
+
+--б)Средняя стоимость тура с указанной едой
+DROP AGGREGATE IF EXISTS countTours(int);
+
+DROP FUNCTION IF EXISTS countState;
+CREATE FUNCTION countState(lastNum int, curid int) 
+RETURNS int 
+AS $$
+	if curid == 0 or curid == None:
+		return lastnum
+		
+	return lastnum + 1
+	
+$$ LANGUAGE plpythonu;
+
+
+CREATE AGGREGATE countTours(int) 
+(
+    sfunc = countState,
+    stype = int,
+    initcond = 0
+);
+
+SELECT countTours(TourID)
+FROM Tour
+WHERE EXTRACT(MONTH FROM DateBegin) = 12 AND EXTRACT(MONTH FROM DateEnd) = 1;
+
+
+--б)Средняя стоимость тура с указанной едой
+DROP AGGREGATE IF EXISTS avgTourCost(int);
+
+DROP FUNCTION IF EXISTS avgState;
+CREATE FUNCTION avgState(lastCostNum numeric[2], curCost int) 
+RETURNS numeric[2] 
+AS $$
+	if curcost == 0 or curcost == None:
+		return lastCostNum
+		
+	return [lastcostnum[0] + curcost, lastcostnum[1] + 1]
+	
+$$ LANGUAGE plpythonu;
+
+DROP FUNCTION IF EXISTS avgFinal;
+CREATE FUNCTION avgFinal(costNum numeric[2]) 
+RETURNS numeric
+AS $$
+	if costnum[1] == 0:
+		return 0
+	return costnum[0] / costnum[1]
+
+$$ LANGUAGE plpythonu;
+
+
+CREATE AGGREGATE avgTourCost(int) 
+(
+    sfunc = avgState,
+    stype = numeric[],
+    finalfunc = avgFinal,
+    initcond = '{0,0}'
+);
+
+SELECT avgTourCost(Tour.Cost)
+FROM Food JOIN Tour ON Food.FoodID = Tour.Food
+WHERE Category = 'BB';
+
 
 
 --Табличная функция
@@ -183,10 +249,3 @@ AS $$
 $$ LANGUAGE plpythonu;
 
 SELECT * FROM getFullToursOnDuring(8);
-
-
-
-
-
-
-
