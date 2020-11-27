@@ -46,7 +46,7 @@ SELECT * FROM numToursPerMonth(6);
 SELECT * FROM numToursPerMonth(12);
 
 
---б)Средняя стоимость тура с указанной едой
+--б)Счетчик туров в указанные месяцы
 DROP AGGREGATE IF EXISTS countTours(int);
 
 DROP FUNCTION IF EXISTS countState;
@@ -73,7 +73,7 @@ FROM Tour
 WHERE EXTRACT(MONTH FROM DateBegin) = 12 AND EXTRACT(MONTH FROM DateEnd) = 1;
 
 
---б)Средняя стоимость тура с указанной едой
+--в)Средняя стоимость тура с указанной едой
 DROP AGGREGATE IF EXISTS avgTourCost(int);
 
 DROP FUNCTION IF EXISTS avgState;
@@ -93,6 +93,7 @@ RETURNS numeric
 AS $$
 	if costnum[1] == 0:
 		return 0
+		
 	return costnum[0] / costnum[1]
 
 $$ LANGUAGE plpythonu;
