@@ -9,6 +9,9 @@ def menu():
 	print("\tScalar function.....5")
 	print("\tTable function......6")
 	print("\tProcedure...........7")
+	print("\tSystem function.....8")
+	print("\tCreate table........9")
+	print("\tInsert in table....10")
 	print("\tExit...............11")
 	
 	choose = input()
@@ -88,7 +91,39 @@ def procedure(con):
 	cur.execute('''CALL incPricesInBigCities(500);''')
 	cur.execute('''CALL incPricesInBigCities(-500);''')
 
-	print("Procedure executed")
+	print('Procedure executed')
+
+
+def sysFunction(con):
+	cur = con.cursor()
+	cur.callproc('pg_postmaster_start_time')
+
+	res = cur.fetchone()
+	print('Time: ' + str(res[0]))
+
+
+def createTable(con):
+	cur = con.cursor()
+	cur.execute('''CREATE TEMP TABLE IF NOT EXISTS TourTMP
+					(TourID INT NOT NULL,
+					Country VARCHAR(30) NOT NULL,
+					Cost INT,
+					Duration INT); ''')
+
+	con.commit()
+	print("Table created successfully")
+
+
+def insertTable(con):
+	cur = con.cursor()
+	cur.execute('''INSERT INTO TourTMP (TourID, Country, Cost, Duration)
+					VALUES (1, 'France', 41920, 9);''')
+
+	cur.execute('''INSERT INTO TourTMP (TourID, Country, Cost, Duration)
+					VALUES (2, 'Portugal', 58910, 12);''')
+
+	con.commit()
+	print("Values inserted successfully")
 
 
 
@@ -120,6 +155,12 @@ if __name__ == "__main__":
 			tableFunction(con)
 		if choose == 7:
 			procedure(con)
+		if choose == 8:
+			sysFunction(con)
+		if choose == 9:
+			createTable(con)
+		if choose == 10:
+			insertTable(con)
 
 	
 	con.close()
