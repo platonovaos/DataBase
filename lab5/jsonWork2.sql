@@ -1,7 +1,9 @@
---Выполнить загрузку и сохранение JSON файла в таблицу.
+﻿--Выполнить загрузку и сохранение JSON файла в таблицу.
+/*
 --Создание
 COPY (SELECT to_jsonb(Tour) FROM Tour) 
 TO '/home/main/Desktop/BMSTU/5sem/DataBase/lab5/tour.json';
+*/
 
 --Загрузка
 CREATE TEMP TABLE IF NOT EXISTS tourJSONB(Tour jsonb);

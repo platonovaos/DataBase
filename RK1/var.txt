@@ -1,0 +1,124 @@
+РК1
+Платонова Ольга ИУ7-55Б
+Вариант 12
+
+В таблицу Fines добавлен ключ FK DriverId
+Таблица DC содержит DriverID, CarsID
+
+1.Найти все пары вида <ФИО водителя, год его автомобиля>
+--SQL
+SELECT Drivers.FIO, Cars.Year
+FROM Drivers JOIN DC ON Drivers.DriverID = DC.DriverID
+	JOIN Cars ON Cars.CarID = DC.CarID;
+
+--РА
+(Drivers JOIN DC JOIN Cars) [FIO, Year]
+
+--ИК
+RANGE OF DX IS Drivers
+RANGE OF DCX IS DC
+RANGE OF CX IS Cars
+
+(DX.FIO, CX.Year) WHERE EXISTS DCX (DCX.DriverID = DX.DriverID AND
+			EXISTS CX (CX.CarID = DCX.CarID))
+
+
+2.Найти автомобили, водители которых не получили ни одного штрафа
+--SQL
+SELECT CarID
+FROM DC
+WHERE DC.DriverID NOT IN (
+	SELECT DriverID
+	FROM Fines
+);
+
+--РА
+DC[CarID] MINUS (DC JOIN Drivers JOIN Fines)[DC.CarID] 
+
+
+--ИК
+RANGE OF DX IS Drivers
+RANGE OF DCX IS DC
+RANGE OF CX IS Cars
+RANGE OF FX IS Fines
+
+(CX.CarID) WHERE NOT EXISTS DCX (DCX.CarID = CX.CarID AND
+		EXISTS DX (DX.DriverID = DCX.DriverID AND 
+		EXISTS FX (FX.DriverID = DX.DriverID)))
+
+
+3.Найти водителей, получивших более 3х штрафов
+SELECT Fines.DriverID, COUNT(*)
+FROM Fines
+GROUP BY Fines.DriverID
+HAVING COUNT(*) > 3;
+
+--РА
+((SUMMARIZE (Fines) PER {DriverID} ADD COUNT AS cnt) WHERE cnt > 3)[DriverID]
+
+--ИК
+RANGE OF FX IS Fines
+
+(COUNT(FX.DriverID) AS cnt) WHERE cnt > 3)
+
+
+2.Пусть R(A, B, C, D, E, F) – переменная отношения. F{A->B, ABCD->E, EF->GH, ACDF->EG} –
+множество функциональных зависимостей, заданных для R. Найти минимальное покрытие для
+заданного множества функциональных зависимостей.
+
+1) Упрощение правой части
+A -> B
+ABCD -> E
+EF -> G
+EF -> H
+ACDF -> E
+ACDF -> G
+
+2) Удаление избыточных
+[A]+ = A, B не входит - оставляем
+[ABCD]+ = ABCD, E не входит - оставляем
+[EF]+ = EFH, G не входит - оставляем
+[EF]+ = EFG, H не входит - оставляем
+[ACDF]+ = ACDFBGE, E входит - удаляем
+[ACDF]+ = ACDFBEGH, G входит - удаляем
+
+Итог:
+A -> B
+ABCD -> E
+EF -> G
+EF -> H
+
+3)Удаляем избыточные
+[A]+ = AB
+[ACD]+ = ABCDE, содержит B - избыточный
+[AC]+ = ABC
+[CD]+ = CD
+[E]+ = E
+
+Из ABCD можно удалить B
+
+Итог: 
+A -> B
+ACD -> E
+EF -> G
+EF -> H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

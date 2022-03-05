@@ -204,6 +204,7 @@ ORDER BY HotelID DESC;
 
 --Определяемый пользователем тип данных
 --Туры длительностью, заданной пользователем
+DROP TABLE IF EXISTS TTours;
 DROP FUNCTION IF EXISTS getFullToursOnDuring;
 DROP TYPE IF EXISTS FullTour;
 CREATE TYPE FullTour AS 
@@ -250,3 +251,32 @@ AS $$
 $$ LANGUAGE plpythonu;
 
 SELECT * FROM getFullToursOnDuring(8);
+
+
+
+--Защита
+CREATE TEMP TABLE TTours
+(
+	TourID INT,
+	TourDesc FullTour
+);
+
+INSERT INTO TTours(TourID, TourDesc) VALUES
+	(1, (1, 'Moscow', 'MyHotel', 'UAI', 7, 35000)),
+	(2, (10, 'Piter', 'MyHotel1', 'BB', 20, 42891)),
+	(3, (7, 'Smolensk', 'MyHotel2', 'UAI', 31, 71250));
+
+SELECT (TourDesc).HotelName, (TourDesc).FoodCategory
+FROM TTours
+WHERE (TourDesc).City = 'Moscow';
+
+
+
+
+
+
+
+
+
+
+

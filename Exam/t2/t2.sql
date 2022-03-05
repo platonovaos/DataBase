@@ -1,0 +1,31 @@
+﻿select * from student;
+
+--Триггер AFTER
+DROP TRIGGER IF EXISTS udStudent ON student;
+
+DROP FUNCTION IF EXISTS noticeUD;
+CREATE FUNCTION noticeUD() 
+RETURNS TRIGGER
+AS $$
+BEGIN
+	IF TG_OP = 'UPDATE' THEN
+		RAISE NOTICE 'Update done';
+		RETURN NEW;
+	ELSIF TG_OP = 'DELETE' THEN
+		RAISE NOTICE 'DELETE done';
+		RETURN OLD;
+	END IF;
+END;
+$$ LANGUAGE PLpgSQL;
+
+CREATE TRIGGER udStudent AFTER UPDATE OR DELETE ON student
+FOR EACH ROW EXECUTE PROCEDURE noticeUD();
+
+UPDATE student
+SET studentIdNumber = '01'
+WHERE studentId = 1; 
+
+DELETE FROM student
+WHERE studentId = 2;
+
+SELECT * FROM student;

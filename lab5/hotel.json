@@ -1,0 +1,1000 @@
+{"city": 703, "cost": 16895, "name": "Goodrich Corporation", "type": "Mini", "class": 4, "hotelid": 1, "swimpool": true}
+{"city": 223, "cost": 7039, "name": "Profitpros", "type": "Resort", "class": 5, "hotelid": 2, "swimpool": false}
+{"city": 86, "cost": 2368, "name": "Continental Airlines", "type": "Mini", "class": 2, "hotelid": 3, "swimpool": true}
+{"city": 157, "cost": 19073, "name": "Quality Realty Service", "type": "B&B", "class": 0, "hotelid": 4, "swimpool": true}
+{"city": 595, "cost": 19793, "name": "Master Builder Design Services", "type": "Mini", "class": 3, "hotelid": 5, "swimpool": true}
+{"city": 509, "cost": 23014, "name": "Zoom Technologies", "type": "Mini", "class": 0, "hotelid": 6, "swimpool": true}
+{"city": 190, "cost": 21088, "name": "Fellowship Investments", "type": "Apart", "class": 4, "hotelid": 7, "swimpool": true}
+{"city": 322, "cost": 15093, "name": "Advansed Teksyztems", "type": "Mini", "class": 5, "hotelid": 9, "swimpool": true}
+{"city": 956, "cost": 6402, "name": "Walgreens", "type": "Hostel", "class": 5, "hotelid": 10, "swimpool": true}
+{"city": 225, "cost": 943, "name": "Babcock and Wilcox", "type": "Motel", "class": 5, "hotelid": 11, "swimpool": true}
+{"city": 632, "cost": 24655, "name": "Allstate", "type": "B&B", "class": 2, "hotelid": 12, "swimpool": true}
+{"city": 38, "cost": 10689, "name": "Quincy Newspapers", "type": "Apart", "class": 2, "hotelid": 13, "swimpool": true}
+{"city": 51, "cost": 8714, "name": "Marsh & McLennan", "type": "Mini", "class": 1, "hotelid": 14, "swimpool": false}
+{"city": 878, "cost": 20551, "name": "West Liberty Foods", "type": "Hostel", "class": 0, "hotelid": 15, "swimpool": false}
+{"city": 17, "cost": 6824, "name": "Opti-Tek", "type": "B&B", "class": 5, "hotelid": 16, "swimpool": false}
+{"city": 687, "cost": 8377, "name": "Ocean Spray", "type": "Mini", "class": 1, "hotelid": 17, "swimpool": false}
+{"city": 90, "cost": 21728, "name": "Vantec", "type": "B&B", "class": 4, "hotelid": 18, "swimpool": false}
+{"city": 773, "cost": 2662, "name": "Albemarle Corporation", "type": "Motel", "class": 0, "hotelid": 19, "swimpool": true}
+{"city": 440, "cost": 11315, "name": "First Rate Choice", "type": "Hostel", "class": 2, "hotelid": 20, "swimpool": true}
+{"city": 67, "cost": 1637, "name": "BB&T Corporation", "type": "Apart", "class": 2, "hotelid": 21, "swimpool": true}
+{"city": 31, "cost": 1587, "name": "American Apparel", "type": "Guest house", "class": 0, "hotelid": 22, "swimpool": false}
+{"city": 161, "cost": 16503, "name": "Sky High Financial Advice", "type": "Resort", "class": 1, "hotelid": 23, "swimpool": true}
+{"city": 822, "cost": 5633, "name": "Liz Claiborne", "type": "Spa", "class": 1, "hotelid": 24, "swimpool": false}
+{"city": 531, "cost": 3916, "name": "OCZ Technology", "type": "Hostel", "class": 2, "hotelid": 25, "swimpool": true}
+{"city": 343, "cost": 20809, "name": "Integra Wealth", "type": "Resort", "class": 0, "hotelid": 26, "swimpool": false}
+{"city": 392, "cost": 16569, "name": "Afforda", "type": "Mini", "class": 0, "hotelid": 27, "swimpool": false}
+{"city": 291, "cost": 5763, "name": "Bosch Brewing Company", "type": "Spa", "class": 3, "hotelid": 28, "swimpool": false}
+{"city": 376, "cost": 18722, "name": "Landskip Yard Service", "type": "Guest house", "class": 1, "hotelid": 29, "swimpool": true}
+{"city": 119, "cost": 21126, "name": "Lazysize", "type": "Mini", "class": 1, "hotelid": 30, "swimpool": false}
+{"city": 616, "cost": 11809, "name": "Destiny Realty", "type": "Resort", "class": 1, "hotelid": 31, "swimpool": true}
+{"city": 631, "cost": 10516, "name": "Harman International Industries", "type": "Mini", "class": 1, "hotelid": 32, "swimpool": false}
+{"city": 440, "cost": 11217, "name": "BNSF Railway", "type": "Hostel", "class": 5, "hotelid": 33, "swimpool": false}
+{"city": 122, "cost": 16511, "name": "AK Steel Holding", "type": "B&B", "class": 2, "hotelid": 34, "swimpool": false}
+{"city": 833, "cost": 14837, "name": "Novell", "type": "Business", "class": 0, "hotelid": 35, "swimpool": false}
+{"city": 35, "cost": 10279, "name": "Unisys", "type": "Resort", "class": 0, "hotelid": 36, "swimpool": true}
+{"city": 373, "cost": 4934, "name": "AnaSpec", "type": "B&B", "class": 5, "hotelid": 37, "swimpool": false}
+{"city": 298, "cost": 10259, "name": "Independent Wealth Management", "type": "B&B", "class": 0, "hotelid": 38, "swimpool": true}
+{"city": 825, "cost": 6189, "name": "Lucasfilm", "type": "Business", "class": 0, "hotelid": 39, "swimpool": true}
+{"city": 274, "cost": 15333, "name": "Dereon", "type": "Resort", "class": 0, "hotelid": 40, "swimpool": true}
+{"city": 758, "cost": 14002, "name": "JN-International Medical Corporation", "type": "Guest house", "class": 4, "hotelid": 41, "swimpool": false}
+{"city": 780, "cost": 6368, "name": "Carnival Cruise Lines", "type": "Motel", "class": 0, "hotelid": 42, "swimpool": false}
+{"city": 915, "cost": 11152, "name": "Success Is Yours", "type": "Resort", "class": 1, "hotelid": 43, "swimpool": false}
+{"city": 466, "cost": 20998, "name": "ExxonMobil", "type": "B&B", "class": 3, "hotelid": 45, "swimpool": false}
+{"city": 422, "cost": 8016, "name": "Doculabs", "type": "Apart", "class": 2, "hotelid": 790, "swimpool": true}
+{"city": 53, "cost": 6482, "name": "Carnival Corporation & plc", "type": "Apart", "class": 0, "hotelid": 47, "swimpool": true}
+{"city": 754, "cost": 3475, "name": "The Lawn Guru", "type": "Apart", "class": 4, "hotelid": 48, "swimpool": false}
+{"city": 927, "cost": 8949, "name": "Atlas Realty", "type": "Resort", "class": 3, "hotelid": 49, "swimpool": true}
+{"city": 183, "cost": 13956, "name": "AutoNation", "type": "Apart", "class": 5, "hotelid": 50, "swimpool": true}
+{"city": 5, "cost": 16653, "name": "a21", "type": "B&B", "class": 3, "hotelid": 51, "swimpool": true}
+{"city": 695, "cost": 18931, "name": "Nvidia", "type": "Hostel", "class": 5, "hotelid": 52, "swimpool": true}
+{"city": 324, "cost": 23367, "name": "MagnaSolution", "type": "B&B", "class": 0, "hotelid": 53, "swimpool": true}
+{"city": 414, "cost": 19873, "name": "Parts and Pieces", "type": "Hostel", "class": 1, "hotelid": 54, "swimpool": true}
+{"city": 746, "cost": 22423, "name": "Vocera Communications", "type": "Business", "class": 2, "hotelid": 55, "swimpool": false}
+{"city": 473, "cost": 22597, "name": "Netcom Business Services", "type": "Resort", "class": 2, "hotelid": 56, "swimpool": false}
+{"city": 158, "cost": 2065, "name": "NBC Universal", "type": "Resort", "class": 2, "hotelid": 57, "swimpool": false}
+{"city": 848, "cost": 11743, "name": "Sprint Nextel Corporation", "type": "B&B", "class": 0, "hotelid": 58, "swimpool": true}
+{"city": 255, "cost": 15625, "name": "Listen Up", "type": "B&B", "class": 5, "hotelid": 59, "swimpool": true}
+{"city": 880, "cost": 14192, "name": "Qwest", "type": "Guest house", "class": 3, "hotelid": 60, "swimpool": false}
+{"city": 484, "cost": 5908, "name": "DineEquity", "type": "Guest house", "class": 3, "hotelid": 61, "swimpool": false}
+{"city": 517, "cost": 15610, "name": "Bose Corporation", "type": "Business", "class": 1, "hotelid": 62, "swimpool": true}
+{"city": 995, "cost": 20903, "name": "Wizards of the Coast", "type": "Mini", "class": 3, "hotelid": 63, "swimpool": true}
+{"city": 519, "cost": 17478, "name": "Landskip Yard Care", "type": "Business", "class": 2, "hotelid": 64, "swimpool": true}
+{"city": 519, "cost": 14530, "name": "Werner Enterprises", "type": "Guest house", "class": 4, "hotelid": 65, "swimpool": false}
+{"city": 217, "cost": 18922, "name": "Ultimate Software", "type": "B&B", "class": 4, "hotelid": 66, "swimpool": true}
+{"city": 182, "cost": 20091, "name": "Valero Energy Corporation", "type": "Motel", "class": 1, "hotelid": 67, "swimpool": false}
+{"city": 693, "cost": 8141, "name": "Kraft Foods", "type": "Hostel", "class": 2, "hotelid": 68, "swimpool": true}
+{"city": 661, "cost": 696, "name": "Modern Architecture Design", "type": "Business", "class": 4, "hotelid": 69, "swimpool": false}
+{"city": 725, "cost": 19362, "name": "Birdwell", "type": "Hostel", "class": 4, "hotelid": 70, "swimpool": false}
+{"city": 878, "cost": 19786, "name": "Jackhammer Technologies", "type": "Business", "class": 5, "hotelid": 71, "swimpool": true}
+{"city": 306, "cost": 22967, "name": "Maxiserve", "type": "Spa", "class": 4, "hotelid": 72, "swimpool": false}
+{"city": 943, "cost": 11647, "name": "Baxter International", "type": "Resort", "class": 2, "hotelid": 73, "swimpool": false}
+{"city": 710, "cost": 16979, "name": "Eddie Bauer", "type": "Business", "class": 1, "hotelid": 74, "swimpool": false}
+{"city": 584, "cost": 11600, "name": "Dynatronics Accessories", "type": "Guest house", "class": 5, "hotelid": 75, "swimpool": true}
+{"city": 341, "cost": 15576, "name": "Fiserv", "type": "Resort", "class": 1, "hotelid": 76, "swimpool": false}
+{"city": 84, "cost": 24292, "name": "Hawaiian Airlines", "type": "Apart", "class": 4, "hotelid": 77, "swimpool": false}
+{"city": 390, "cost": 10606, "name": "Pro Garden Management", "type": "Resort", "class": 1, "hotelid": 78, "swimpool": true}
+{"city": 526, "cost": 1782, "name": "Spectrum Brands", "type": "B&B", "class": 1, "hotelid": 79, "swimpool": true}
+{"city": 959, "cost": 5988, "name": "Dream Home Improvements", "type": "Mini", "class": 3, "hotelid": 80, "swimpool": false}
+{"city": 920, "cost": 11355, "name": "A Plus Lawn Care", "type": "Apart", "class": 0, "hotelid": 81, "swimpool": true}
+{"city": 258, "cost": 9163, "name": "Aramark", "type": "Resort", "class": 1, "hotelid": 82, "swimpool": false}
+{"city": 731, "cost": 10263, "name": "Afforda Merchant Services", "type": "Mini", "class": 5, "hotelid": 83, "swimpool": false}
+{"city": 799, "cost": 2556, "name": "Mutual of Omaha", "type": "B&B", "class": 3, "hotelid": 85, "swimpool": false}
+{"city": 123, "cost": 2936, "name": "Beasts of Beauty", "type": "B&B", "class": 0, "hotelid": 86, "swimpool": false}
+{"city": 93, "cost": 7972, "name": "Dillard's", "type": "Hostel", "class": 4, "hotelid": 87, "swimpool": false}
+{"city": 224, "cost": 1293, "name": "WWW Realty", "type": "Resort", "class": 0, "hotelid": 88, "swimpool": true}
+{"city": 69, "cost": 17180, "name": "Greyvoid", "type": "Resort", "class": 4, "hotelid": 89, "swimpool": true}
+{"city": 839, "cost": 4568, "name": "Amgen", "type": "B&B", "class": 5, "hotelid": 90, "swimpool": false}
+{"city": 108, "cost": 13328, "name": "Discover Financial Services", "type": "Hostel", "class": 4, "hotelid": 91, "swimpool": false}
+{"city": 159, "cost": 14163, "name": "Bain Capital", "type": "Spa", "class": 3, "hotelid": 92, "swimpool": true}
+{"city": 906, "cost": 15507, "name": "Zig Zag Children Clothes", "type": "Spa", "class": 5, "hotelid": 94, "swimpool": true}
+{"city": 648, "cost": 21742, "name": "Northrop Grumman", "type": "Business", "class": 0, "hotelid": 95, "swimpool": false}
+{"city": 812, "cost": 6988, "name": "Automatic Data Processing", "type": "Hostel", "class": 0, "hotelid": 96, "swimpool": false}
+{"city": 379, "cost": 19274, "name": "Ernod", "type": "Hostel", "class": 3, "hotelid": 97, "swimpool": false}
+{"city": 184, "cost": 5558, "name": "Alaska Air Group", "type": "B&B", "class": 5, "hotelid": 99, "swimpool": true}
+{"city": 253, "cost": 19237, "name": "Quiznos", "type": "Motel", "class": 2, "hotelid": 102, "swimpool": false}
+{"city": 431, "cost": 18555, "name": "Wheeling-Pittsburgh Steel", "type": "Hostel", "class": 0, "hotelid": 103, "swimpool": true}
+{"city": 819, "cost": 698, "name": "United Airlines", "type": "Resort", "class": 0, "hotelid": 104, "swimpool": false}
+{"city": 798, "cost": 14696, "name": "Allegheny Energy", "type": "Spa", "class": 4, "hotelid": 105, "swimpool": false}
+{"city": 947, "cost": 10658, "name": "Edge Yard Service", "type": "Resort", "class": 2, "hotelid": 106, "swimpool": false}
+{"city": 539, "cost": 4148, "name": "Hyland Software", "type": "Apart", "class": 2, "hotelid": 107, "swimpool": true}
+{"city": 798, "cost": 23428, "name": "Belk", "type": "Business", "class": 3, "hotelid": 108, "swimpool": false}
+{"city": 890, "cost": 10465, "name": "Avon Products", "type": "Apart", "class": 2, "hotelid": 109, "swimpool": false}
+{"city": 17, "cost": 20563, "name": "Cut Above", "type": "B&B", "class": 0, "hotelid": 110, "swimpool": false}
+{"city": 167, "cost": 4054, "name": "Cerner Corporation", "type": "Business", "class": 5, "hotelid": 111, "swimpool": false}
+{"city": 358, "cost": 12696, "name": "Ground Round", "type": "Spa", "class": 0, "hotelid": 112, "swimpool": false}
+{"city": 922, "cost": 4966, "name": "The Flying Hippo", "type": "B&B", "class": 4, "hotelid": 113, "swimpool": false}
+{"city": 571, "cost": 19099, "name": "Rayovac", "type": "Motel", "class": 3, "hotelid": 114, "swimpool": false}
+{"city": 562, "cost": 633, "name": "Johnson & Johnson", "type": "Guest house", "class": 0, "hotelid": 115, "swimpool": true}
+{"city": 66, "cost": 11740, "name": "Vivitar", "type": "Guest house", "class": 2, "hotelid": 116, "swimpool": true}
+{"city": 146, "cost": 8361, "name": "Magna Solution", "type": "Business", "class": 5, "hotelid": 118, "swimpool": true}
+{"city": 973, "cost": 4855, "name": "Electronic Geek", "type": "Business", "class": 3, "hotelid": 119, "swimpool": true}
+{"city": 810, "cost": 7589, "name": "B/E Aerospace", "type": "Apart", "class": 5, "hotelid": 120, "swimpool": false}
+{"city": 317, "cost": 13780, "name": "Matrix Architectural Service", "type": "Hostel", "class": 4, "hotelid": 121, "swimpool": true}
+{"city": 844, "cost": 15234, "name": "ABX Air", "type": "Guest house", "class": 1, "hotelid": 122, "swimpool": true}
+{"city": 231, "cost": 14873, "name": "Vermeer Industries", "type": "Hostel", "class": 1, "hotelid": 123, "swimpool": true}
+{"city": 266, "cost": 7125, "name": "Western Digital", "type": "Hostel", "class": 3, "hotelid": 124, "swimpool": true}
+{"city": 998, "cost": 14108, "name": "Control Data Corporation (CDC)", "type": "Mini", "class": 4, "hotelid": 125, "swimpool": true}
+{"city": 523, "cost": 11808, "name": "First Choice Yard Help", "type": "Apart", "class": 1, "hotelid": 126, "swimpool": false}
+{"city": 132, "cost": 1415, "name": "Tupperware Brands Corporation", "type": "Motel", "class": 5, "hotelid": 127, "swimpool": true}
+{"city": 399, "cost": 14144, "name": "Ford Motor Company", "type": "B&B", "class": 3, "hotelid": 128, "swimpool": true}
+{"city": 416, "cost": 10111, "name": "Liberty Wealth Planner", "type": "Business", "class": 2, "hotelid": 129, "swimpool": true}
+{"city": 672, "cost": 13319, "name": "Quantrix", "type": "Business", "class": 3, "hotelid": 130, "swimpool": false}
+{"city": 329, "cost": 12972, "name": "Avant Garde Interior Designs", "type": "Motel", "class": 4, "hotelid": 131, "swimpool": true}
+{"city": 254, "cost": 19022, "name": "Hastings Entertainment", "type": "Guest house", "class": 0, "hotelid": 132, "swimpool": true}
+{"city": 739, "cost": 10943, "name": "Aon Corporation", "type": "Motel", "class": 4, "hotelid": 133, "swimpool": false}
+{"city": 247, "cost": 13891, "name": "Miro Technologies", "type": "Resort", "class": 2, "hotelid": 134, "swimpool": true}
+{"city": 767, "cost": 15474, "name": "Martel Communication", "type": "Apart", "class": 0, "hotelid": 135, "swimpool": false}
+{"city": 614, "cost": 20304, "name": "Independent Investors", "type": "Spa", "class": 0, "hotelid": 136, "swimpool": false}
+{"city": 321, "cost": 19143, "name": "Brinker International", "type": "Motel", "class": 3, "hotelid": 137, "swimpool": false}
+{"city": 645, "cost": 7108, "name": "NCR Corporation", "type": "Resort", "class": 3, "hotelid": 139, "swimpool": false}
+{"city": 452, "cost": 4639, "name": "Team Uno", "type": "Business", "class": 2, "hotelid": 140, "swimpool": true}
+{"city": 164, "cost": 13759, "name": "Silicon Image", "type": "Motel", "class": 4, "hotelid": 141, "swimpool": false}
+{"city": 403, "cost": 1898, "name": "Signa Air", "type": "Spa", "class": 0, "hotelid": 143, "swimpool": false}
+{"city": 502, "cost": 5049, "name": "Monsanto Company", "type": "Hostel", "class": 3, "hotelid": 144, "swimpool": true}
+{"city": 947, "cost": 4784, "name": "Pilgrim's Pride", "type": "Hostel", "class": 3, "hotelid": 145, "swimpool": true}
+{"city": 864, "cost": 22334, "name": "Infinite Wealth Planners", "type": "Mini", "class": 3, "hotelid": 146, "swimpool": true}
+{"city": 292, "cost": 6494, "name": "System Star Solutions", "type": "Motel", "class": 5, "hotelid": 148, "swimpool": false}
+{"city": 297, "cost": 6871, "name": "Asian Solutions", "type": "Business", "class": 5, "hotelid": 150, "swimpool": false}
+{"city": 982, "cost": 3868, "name": "AGCO", "type": "Guest house", "class": 2, "hotelid": 151, "swimpool": false}
+{"city": 139, "cost": 10144, "name": "Alliant Energy", "type": "B&B", "class": 4, "hotelid": 152, "swimpool": false}
+{"city": 371, "cost": 19261, "name": "Asiatic Solutions", "type": "B&B", "class": 2, "hotelid": 153, "swimpool": true}
+{"city": 477, "cost": 22393, "name": "Target Realty", "type": "Resort", "class": 5, "hotelid": 154, "swimpool": true}
+{"city": 405, "cost": 1807, "name": "Edge Garden Services", "type": "Business", "class": 4, "hotelid": 155, "swimpool": true}
+{"city": 623, "cost": 22403, "name": "Bebo", "type": "Business", "class": 1, "hotelid": 156, "swimpool": false}
+{"city": 914, "cost": 17614, "name": "Mission Realty", "type": "Spa", "class": 4, "hotelid": 157, "swimpool": false}
+{"city": 7, "cost": 13373, "name": "Exact Realty", "type": "Guest house", "class": 0, "hotelid": 158, "swimpool": true}
+{"city": 411, "cost": 2113, "name": "Sunburst Garden Management", "type": "Resort", "class": 2, "hotelid": 159, "swimpool": true}
+{"city": 876, "cost": 6903, "name": "Uwajimaya", "type": "Resort", "class": 2, "hotelid": 160, "swimpool": true}
+{"city": 227, "cost": 5945, "name": "Avnet", "type": "Motel", "class": 3, "hotelid": 161, "swimpool": false}
+{"city": 454, "cost": 11258, "name": "Destiny Planners", "type": "Resort", "class": 3, "hotelid": 162, "swimpool": false}
+{"city": 391, "cost": 8828, "name": "Adapt", "type": "B&B", "class": 5, "hotelid": 163, "swimpool": false}
+{"city": 184, "cost": 13921, "name": "Lone Wolf Wealth Planning", "type": "Resort", "class": 2, "hotelid": 164, "swimpool": false}
+{"city": 756, "cost": 7480, "name": "Opticomp", "type": "Motel", "class": 3, "hotelid": 165, "swimpool": false}
+{"city": 264, "cost": 9123, "name": "Gap", "type": "Hostel", "class": 4, "hotelid": 166, "swimpool": false}
+{"city": 829, "cost": 5240, "name": "Omnicare", "type": "Guest house", "class": 5, "hotelid": 167, "swimpool": false}
+{"city": 645, "cost": 18720, "name": "Clear Channel Communications", "type": "Hostel", "class": 0, "hotelid": 168, "swimpool": false}
+{"city": 978, "cost": 7576, "name": "Omni Realty", "type": "Hostel", "class": 0, "hotelid": 169, "swimpool": true}
+{"city": 33, "cost": 6115, "name": "Sunny Real Estate Investments", "type": "Guest house", "class": 3, "hotelid": 170, "swimpool": true}
+{"city": 782, "cost": 16411, "name": "The Library Corporation (TLC)", "type": "Mini", "class": 2, "hotelid": 171, "swimpool": false}
+{"city": 319, "cost": 9353, "name": "Aleris International", "type": "Mini", "class": 3, "hotelid": 173, "swimpool": false}
+{"city": 600, "cost": 2635, "name": "Renys", "type": "Mini", "class": 1, "hotelid": 174, "swimpool": true}
+{"city": 647, "cost": 3824, "name": "Solid Future", "type": "Motel", "class": 5, "hotelid": 175, "swimpool": true}
+{"city": 312, "cost": 15732, "name": "Hasbro", "type": "B&B", "class": 3, "hotelid": 176, "swimpool": true}
+{"city": 709, "cost": 17521, "name": "Iron Mountain", "type": "Business", "class": 1, "hotelid": 177, "swimpool": false}
+{"city": 945, "cost": 14588, "name": "Dun Rite Lawn Maintenance", "type": "Spa", "class": 2, "hotelid": 178, "swimpool": false}
+{"city": 692, "cost": 8989, "name": "Dreamscape Garden Care", "type": "Apart", "class": 5, "hotelid": 179, "swimpool": false}
+{"city": 201, "cost": 7558, "name": "CKE Restaurants", "type": "Hostel", "class": 0, "hotelid": 181, "swimpool": true}
+{"city": 658, "cost": 10968, "name": "Welch's", "type": "Business", "class": 5, "hotelid": 182, "swimpool": true}
+{"city": 471, "cost": 9663, "name": "Gamma Grays", "type": "Mini", "class": 0, "hotelid": 183, "swimpool": true}
+{"city": 360, "cost": 7954, "name": "DynCorp International", "type": "Guest house", "class": 2, "hotelid": 184, "swimpool": true}
+{"city": 279, "cost": 5232, "name": "Walmart", "type": "Resort", "class": 4, "hotelid": 185, "swimpool": false}
+{"city": 614, "cost": 16933, "name": "AECOM", "type": "Hostel", "class": 4, "hotelid": 186, "swimpool": false}
+{"city": 459, "cost": 6676, "name": "Qpass", "type": "Resort", "class": 5, "hotelid": 187, "swimpool": false}
+{"city": 427, "cost": 3873, "name": "Pluto Marine", "type": "Spa", "class": 3, "hotelid": 188, "swimpool": false}
+{"city": 809, "cost": 9906, "name": "Strong Life", "type": "Motel", "class": 5, "hotelid": 189, "swimpool": true}
+{"city": 975, "cost": 16081, "name": "OPOWER", "type": "Business", "class": 0, "hotelid": 190, "swimpool": false}
+{"city": 31, "cost": 24592, "name": "Monit", "type": "Spa", "class": 4, "hotelid": 191, "swimpool": true}
+{"city": 149, "cost": 20199, "name": "Alladin Realty", "type": "Resort", "class": 1, "hotelid": 192, "swimpool": true}
+{"city": 48, "cost": 2773, "name": "DRS Technologies", "type": "B&B", "class": 1, "hotelid": 193, "swimpool": false}
+{"city": 528, "cost": 20363, "name": "Bank of New York Mellon", "type": "Motel", "class": 0, "hotelid": 194, "swimpool": true}
+{"city": 4, "cost": 4337, "name": "Advanced Micro Devices", "type": "Mini", "class": 4, "hotelid": 195, "swimpool": true}
+{"city": 772, "cost": 12540, "name": "Alladin's Lamp", "type": "Apart", "class": 4, "hotelid": 196, "swimpool": true}
+{"city": 740, "cost": 21167, "name": "Avaya", "type": "Hostel", "class": 2, "hotelid": 197, "swimpool": true}
+{"city": 20, "cost": 10329, "name": "Crowley Maritime Corporation", "type": "Apart", "class": 2, "hotelid": 198, "swimpool": true}
+{"city": 872, "cost": 1721, "name": "AGL Resources", "type": "Spa", "class": 0, "hotelid": 199, "swimpool": true}
+{"city": 514, "cost": 18198, "name": "Parallel Px", "type": "Resort", "class": 5, "hotelid": 200, "swimpool": true}
+{"city": 566, "cost": 18251, "name": "Monk Home Funding Services", "type": "Apart", "class": 1, "hotelid": 202, "swimpool": false}
+{"city": 411, "cost": 19312, "name": "Bold Ideas", "type": "Mini", "class": 3, "hotelid": 203, "swimpool": true}
+{"city": 345, "cost": 18448, "name": "Honest Air Group", "type": "Apart", "class": 0, "hotelid": 204, "swimpool": true}
+{"city": 491, "cost": 12904, "name": "Kimberly-Clark", "type": "Hostel", "class": 0, "hotelid": 205, "swimpool": true}
+{"city": 694, "cost": 6720, "name": "Under Armour", "type": "Guest house", "class": 3, "hotelid": 206, "swimpool": false}
+{"city": 717, "cost": 16298, "name": "Snap-on Tools", "type": "Mini", "class": 4, "hotelid": 207, "swimpool": true}
+{"city": 943, "cost": 18139, "name": "News Corporation", "type": "Mini", "class": 1, "hotelid": 208, "swimpool": false}
+{"city": 559, "cost": 23772, "name": "American Greetings", "type": "B&B", "class": 5, "hotelid": 209, "swimpool": false}
+{"city": 973, "cost": 1793, "name": "Better Business Ideas and Services", "type": "Apart", "class": 3, "hotelid": 210, "swimpool": true}
+{"city": 174, "cost": 12382, "name": "Sterling Commerce", "type": "Motel", "class": 3, "hotelid": 211, "swimpool": false}
+{"city": 870, "cost": 11751, "name": "Eastman Kodak", "type": "Apart", "class": 4, "hotelid": 212, "swimpool": true}
+{"city": 942, "cost": 2941, "name": "Indiewealth", "type": "Guest house", "class": 4, "hotelid": 213, "swimpool": true}
+{"city": 566, "cost": 4143, "name": "Cole Haan", "type": "Guest house", "class": 3, "hotelid": 214, "swimpool": true}
+{"city": 763, "cost": 6358, "name": "Rich and Happy", "type": "Mini", "class": 2, "hotelid": 215, "swimpool": true}
+{"city": 895, "cost": 14385, "name": "Specific Appraisals", "type": "Spa", "class": 3, "hotelid": 216, "swimpool": false}
+{"city": 190, "cost": 8580, "name": "Eastman Chemical Company", "type": "Spa", "class": 2, "hotelid": 217, "swimpool": false}
+{"city": 511, "cost": 9208, "name": "The Independent Planners", "type": "B&B", "class": 0, "hotelid": 218, "swimpool": true}
+{"city": 174, "cost": 13939, "name": "Kmart", "type": "Hostel", "class": 0, "hotelid": 548, "swimpool": true}
+{"city": 101, "cost": 1820, "name": "Alert Alarm Company", "type": "Apart", "class": 2, "hotelid": 219, "swimpool": true}
+{"city": 19, "cost": 16569, "name": "Dick's Sporting Goods", "type": "Mini", "class": 3, "hotelid": 220, "swimpool": true}
+{"city": 812, "cost": 24988, "name": "Strongbod", "type": "Spa", "class": 5, "hotelid": 222, "swimpool": false}
+{"city": 231, "cost": 16022, "name": "Frasca International", "type": "B&B", "class": 5, "hotelid": 223, "swimpool": false}
+{"city": 425, "cost": 2329, "name": "Personal & Corporate Design", "type": "Guest house", "class": 3, "hotelid": 224, "swimpool": false}
+{"city": 201, "cost": 18874, "name": "Bristol-Myers Squibb", "type": "Mini", "class": 5, "hotelid": 225, "swimpool": true}
+{"city": 807, "cost": 2275, "name": "Perdue Farms", "type": "Guest house", "class": 3, "hotelid": 226, "swimpool": false}
+{"city": 493, "cost": 24316, "name": "Intel", "type": "Spa", "class": 4, "hotelid": 228, "swimpool": false}
+{"city": 753, "cost": 11131, "name": "Atmos Energy", "type": "Apart", "class": 1, "hotelid": 229, "swimpool": false}
+{"city": 403, "cost": 18471, "name": "Duke Energy", "type": "Motel", "class": 5, "hotelid": 230, "swimpool": false}
+{"city": 612, "cost": 21886, "name": "CIGNA", "type": "Apart", "class": 2, "hotelid": 231, "swimpool": false}
+{"city": 49, "cost": 18472, "name": "Nabisco", "type": "Apart", "class": 1, "hotelid": 233, "swimpool": true}
+{"city": 831, "cost": 12303, "name": "Conseco", "type": "Mini", "class": 2, "hotelid": 234, "swimpool": false}
+{"city": 799, "cost": 5303, "name": "New World", "type": "Hostel", "class": 0, "hotelid": 235, "swimpool": false}
+{"city": 621, "cost": 24897, "name": "Anchor Bay Entertainment", "type": "Mini", "class": 5, "hotelid": 236, "swimpool": false}
+{"city": 606, "cost": 2296, "name": "Apollo Group", "type": "B&B", "class": 5, "hotelid": 237, "swimpool": false}
+{"city": 71, "cost": 19169, "name": "Paramount Pictures", "type": "Motel", "class": 1, "hotelid": 238, "swimpool": true}
+{"city": 835, "cost": 9395, "name": "AC Lens", "type": "Hostel", "class": 5, "hotelid": 239, "swimpool": true}
+{"city": 88, "cost": 8991, "name": "YASH Technologies", "type": "B&B", "class": 2, "hotelid": 240, "swimpool": false}
+{"city": 187, "cost": 5600, "name": "Plan Smart Partner", "type": "Business", "class": 4, "hotelid": 241, "swimpool": true}
+{"city": 280, "cost": 21724, "name": "American International Group", "type": "B&B", "class": 1, "hotelid": 794, "swimpool": true}
+{"city": 866, "cost": 12200, "name": "Union Pacific Railroad", "type": "Spa", "class": 4, "hotelid": 243, "swimpool": false}
+{"city": 634, "cost": 788, "name": "Gold Leaf Garden Management", "type": "B&B", "class": 4, "hotelid": 244, "swimpool": false}
+{"city": 136, "cost": 3348, "name": "Lucas Oil", "type": "Hostel", "class": 2, "hotelid": 245, "swimpool": true}
+{"city": 288, "cost": 541, "name": "Kingston Technology", "type": "Guest house", "class": 1, "hotelid": 246, "swimpool": true}
+{"city": 906, "cost": 12585, "name": "Copeland's", "type": "Mini", "class": 0, "hotelid": 247, "swimpool": true}
+{"city": 162, "cost": 4089, "name": "Hallmark Cards", "type": "B&B", "class": 2, "hotelid": 248, "swimpool": false}
+{"city": 697, "cost": 24990, "name": "Midwest Communications", "type": "Mini", "class": 0, "hotelid": 249, "swimpool": true}
+{"city": 124, "cost": 23330, "name": "Biggby Coffee", "type": "Guest house", "class": 0, "hotelid": 837, "swimpool": false}
+{"city": 686, "cost": 17467, "name": "Life Plan Counselling", "type": "Motel", "class": 5, "hotelid": 251, "swimpool": false}
+{"city": 280, "cost": 8642, "name": "Modern Realty", "type": "Guest house", "class": 3, "hotelid": 897, "swimpool": true}
+{"city": 766, "cost": 23360, "name": "United Technologies", "type": "Resort", "class": 3, "hotelid": 253, "swimpool": false}
+{"city": 849, "cost": 12449, "name": "ManPower", "type": "Hostel", "class": 5, "hotelid": 254, "swimpool": true}
+{"city": 523, "cost": 16599, "name": "Chem-Dry", "type": "Hostel", "class": 1, "hotelid": 255, "swimpool": true}
+{"city": 46, "cost": 12370, "name": "Boeing", "type": "Apart", "class": 3, "hotelid": 256, "swimpool": false}
+{"city": 626, "cost": 14228, "name": "Time Warner Cable", "type": "Mini", "class": 1, "hotelid": 257, "swimpool": false}
+{"city": 420, "cost": 18871, "name": "Jimmy John's", "type": "Spa", "class": 0, "hotelid": 258, "swimpool": false}
+{"city": 980, "cost": 7765, "name": "Enrich Garden Services", "type": "Guest house", "class": 0, "hotelid": 259, "swimpool": true}
+{"city": 502, "cost": 6106, "name": "Oberweis Dairy", "type": "Resort", "class": 1, "hotelid": 260, "swimpool": true}
+{"city": 872, "cost": 19019, "name": "Delta Air Lines", "type": "Spa", "class": 1, "hotelid": 262, "swimpool": true}
+{"city": 223, "cost": 14408, "name": "Dex One", "type": "Mini", "class": 5, "hotelid": 264, "swimpool": false}
+{"city": 900, "cost": 12773, "name": "Alcoa", "type": "Hostel", "class": 0, "hotelid": 265, "swimpool": false}
+{"city": 318, "cost": 22887, "name": "Amkor Technology", "type": "Business", "class": 1, "hotelid": 266, "swimpool": false}
+{"city": 274, "cost": 20009, "name": "Big Lots", "type": "Guest house", "class": 2, "hotelid": 267, "swimpool": true}
+{"city": 342, "cost": 24146, "name": "VMware", "type": "Guest house", "class": 0, "hotelid": 268, "swimpool": false}
+{"city": 209, "cost": 1017, "name": "American Home Mortgage", "type": "Business", "class": 1, "hotelid": 269, "swimpool": false}
+{"city": 292, "cost": 11750, "name": "BFG Technologies", "type": "Guest house", "class": 1, "hotelid": 270, "swimpool": true}
+{"city": 974, "cost": 9634, "name": "O'Reilly", "type": "Apart", "class": 0, "hotelid": 271, "swimpool": true}
+{"city": 852, "cost": 15556, "name": "Wendy's/Arby's Group", "type": "Business", "class": 0, "hotelid": 272, "swimpool": true}
+{"city": 646, "cost": 14502, "name": "Powerbod", "type": "Spa", "class": 5, "hotelid": 274, "swimpool": true}
+{"city": 909, "cost": 22021, "name": "Watco Companies", "type": "Guest house", "class": 5, "hotelid": 275, "swimpool": true}
+{"city": 879, "cost": 5370, "name": "Choices", "type": "Guest house", "class": 1, "hotelid": 276, "swimpool": false}
+{"city": 842, "cost": 11081, "name": "Arbitron", "type": "Business", "class": 4, "hotelid": 277, "swimpool": true}
+{"city": 446, "cost": 15359, "name": "Digi-Key", "type": "Mini", "class": 0, "hotelid": 278, "swimpool": false}
+{"city": 264, "cost": 14230, "name": "Estée Lauder Companies", "type": "B&B", "class": 5, "hotelid": 279, "swimpool": false}
+{"city": 98, "cost": 3949, "name": "Ejecta", "type": "Hostel", "class": 1, "hotelid": 280, "swimpool": true}
+{"city": 952, "cost": 1786, "name": "Briggs & Stratton", "type": "B&B", "class": 0, "hotelid": 282, "swimpool": true}
+{"city": 525, "cost": 14846, "name": "Energy East", "type": "Mini", "class": 1, "hotelid": 283, "swimpool": true}
+{"city": 150, "cost": 9886, "name": "Netobill", "type": "Spa", "class": 1, "hotelid": 284, "swimpool": true}
+{"city": 849, "cost": 6116, "name": "Megatronic Mux", "type": "Apart", "class": 1, "hotelid": 285, "swimpool": true}
+{"city": 717, "cost": 6821, "name": "Burlington Coat Factory", "type": "Mini", "class": 4, "hotelid": 286, "swimpool": false}
+{"city": 863, "cost": 2070, "name": "Monmax", "type": "Resort", "class": 4, "hotelid": 287, "swimpool": false}
+{"city": 398, "cost": 23207, "name": "Citrix", "type": "Hostel", "class": 5, "hotelid": 288, "swimpool": true}
+{"city": 851, "cost": 2162, "name": "Syntel", "type": "Apart", "class": 4, "hotelid": 289, "swimpool": false}
+{"city": 660, "cost": 24211, "name": "Solution Answers", "type": "Hostel", "class": 2, "hotelid": 290, "swimpool": true}
+{"city": 923, "cost": 3835, "name": "Johnson Controls", "type": "Business", "class": 5, "hotelid": 291, "swimpool": true}
+{"city": 316, "cost": 11444, "name": "Oracle Corporation", "type": "B&B", "class": 1, "hotelid": 292, "swimpool": false}
+{"city": 451, "cost": 12287, "name": "Eureka", "type": "Guest house", "class": 1, "hotelid": 293, "swimpool": true}
+{"city": 960, "cost": 5878, "name": "The Jolly Farmer", "type": "Apart", "class": 1, "hotelid": 294, "swimpool": true}
+{"city": 339, "cost": 14951, "name": "Erie Insurance Group", "type": "Motel", "class": 4, "hotelid": 295, "swimpool": true}
+{"city": 343, "cost": 14385, "name": "Myspace", "type": "Business", "class": 4, "hotelid": 296, "swimpool": true}
+{"city": 857, "cost": 23388, "name": "Farnod", "type": "Spa", "class": 2, "hotelid": 297, "swimpool": true}
+{"city": 454, "cost": 5335, "name": "Quality Merchant Services", "type": "Apart", "class": 1, "hotelid": 298, "swimpool": false}
+{"city": 816, "cost": 20102, "name": "Vectren", "type": "B&B", "class": 2, "hotelid": 300, "swimpool": false}
+{"city": 999, "cost": 6738, "name": "VECO Corporation", "type": "B&B", "class": 3, "hotelid": 302, "swimpool": true}
+{"city": 548, "cost": 11498, "name": "Autodesk", "type": "Business", "class": 0, "hotelid": 303, "swimpool": true}
+{"city": 181, "cost": 14934, "name": "Acme Brick Company", "type": "Motel", "class": 2, "hotelid": 304, "swimpool": true}
+{"city": 418, "cost": 14221, "name": "Back To Basics Chiropractic Clinic", "type": "Mini", "class": 3, "hotelid": 306, "swimpool": true}
+{"city": 114, "cost": 23935, "name": "Earthworks Yard Maintenance", "type": "Guest house", "class": 1, "hotelid": 307, "swimpool": true}
+{"city": 651, "cost": 5554, "name": "The Happy Bear", "type": "Resort", "class": 0, "hotelid": 308, "swimpool": false}
+{"city": 507, "cost": 21056, "name": "Colgate-Palmolive", "type": "Spa", "class": 1, "hotelid": 309, "swimpool": true}
+{"city": 814, "cost": 5758, "name": "Arizona Stock Exchange", "type": "Apart", "class": 4, "hotelid": 310, "swimpool": true}
+{"city": 955, "cost": 24874, "name": "Lexmark", "type": "Business", "class": 5, "hotelid": 311, "swimpool": true}
+{"city": 934, "cost": 17780, "name": "The Walt Disney Company", "type": "Motel", "class": 4, "hotelid": 312, "swimpool": true}
+{"city": 87, "cost": 18718, "name": "Becton Dickinson", "type": "Spa", "class": 1, "hotelid": 314, "swimpool": false}
+{"city": 203, "cost": 1216, "name": "DC Shoes", "type": "Resort", "class": 2, "hotelid": 315, "swimpool": false}
+{"city": 554, "cost": 24321, "name": "Aéropostale", "type": "Mini", "class": 1, "hotelid": 316, "swimpool": false}
+{"city": 9, "cost": 23546, "name": "Global Insight", "type": "Resort", "class": 3, "hotelid": 317, "swimpool": true}
+{"city": 725, "cost": 1418, "name": "Raytheon", "type": "Spa", "class": 5, "hotelid": 318, "swimpool": true}
+{"city": 561, "cost": 21495, "name": "Corsair Memory", "type": "Motel", "class": 1, "hotelid": 319, "swimpool": false}
+{"city": 662, "cost": 23032, "name": "AskMeNow", "type": "Mini", "class": 4, "hotelid": 320, "swimpool": false}
+{"city": 955, "cost": 14591, "name": "ION Media Networks", "type": "B&B", "class": 2, "hotelid": 323, "swimpool": true}
+{"city": 241, "cost": 14951, "name": "Progressive Corporation", "type": "Business", "class": 1, "hotelid": 324, "swimpool": false}
+{"city": 52, "cost": 10939, "name": "Planetbiz", "type": "B&B", "class": 3, "hotelid": 325, "swimpool": true}
+{"city": 975, "cost": 2236, "name": "American Airlines", "type": "Mini", "class": 2, "hotelid": 326, "swimpool": false}
+{"city": 754, "cost": 20870, "name": "One-Up Realtors", "type": "Apart", "class": 1, "hotelid": 327, "swimpool": false}
+{"city": 869, "cost": 15234, "name": "Schoep's Ice Cream", "type": "B&B", "class": 4, "hotelid": 328, "swimpool": true}
+{"city": 188, "cost": 4992, "name": "National Railway Equipment Company", "type": "Mini", "class": 1, "hotelid": 329, "swimpool": true}
+{"city": 282, "cost": 4293, "name": "Martha Stewart Living Omnimedia", "type": "B&B", "class": 0, "hotelid": 330, "swimpool": false}
+{"city": 68, "cost": 15960, "name": "Applied Industrial Technologies", "type": "Business", "class": 3, "hotelid": 331, "swimpool": false}
+{"city": 885, "cost": 6900, "name": "United Parcel Service (UPS)", "type": "Hostel", "class": 0, "hotelid": 332, "swimpool": true}
+{"city": 817, "cost": 5897, "name": "Integra Investment Plan", "type": "Business", "class": 3, "hotelid": 333, "swimpool": true}
+{"city": 692, "cost": 22119, "name": "Asbury Automotive Group", "type": "Guest house", "class": 1, "hotelid": 334, "swimpool": true}
+{"city": 454, "cost": 15274, "name": "Paxton Media Group", "type": "Motel", "class": 3, "hotelid": 335, "swimpool": false}
+{"city": 697, "cost": 14585, "name": "GTECH", "type": "Hostel", "class": 2, "hotelid": 336, "swimpool": true}
+{"city": 27, "cost": 11472, "name": "Custom Lawn Service", "type": "Motel", "class": 4, "hotelid": 337, "swimpool": true}
+{"city": 60, "cost": 23891, "name": "Plan Future", "type": "Resort", "class": 3, "hotelid": 338, "swimpool": true}
+{"city": 973, "cost": 19075, "name": "Price Waterhouse Coopers", "type": "B&B", "class": 0, "hotelid": 339, "swimpool": false}
+{"city": 708, "cost": 4497, "name": "New World Realty", "type": "Spa", "class": 5, "hotelid": 340, "swimpool": true}
+{"city": 254, "cost": 21347, "name": "DST Systems", "type": "B&B", "class": 3, "hotelid": 341, "swimpool": false}
+{"city": 523, "cost": 4056, "name": "Applied Biosystems", "type": "Guest house", "class": 1, "hotelid": 342, "swimpool": true}
+{"city": 503, "cost": 20691, "name": "Hi-Point Firearms", "type": "Motel", "class": 0, "hotelid": 343, "swimpool": true}
+{"city": 825, "cost": 24831, "name": "Fit Tonic", "type": "Spa", "class": 0, "hotelid": 344, "swimpool": false}
+{"city": 516, "cost": 20972, "name": "Hunt Petroleum", "type": "Motel", "class": 0, "hotelid": 345, "swimpool": true}
+{"city": 252, "cost": 16070, "name": "The Network Chef", "type": "Resort", "class": 2, "hotelid": 346, "swimpool": true}
+{"city": 260, "cost": 12667, "name": "Megatronic", "type": "Mini", "class": 2, "hotelid": 347, "swimpool": true}
+{"city": 962, "cost": 23911, "name": "Gentiva Health Services", "type": "Resort", "class": 4, "hotelid": 348, "swimpool": true}
+{"city": 707, "cost": 20550, "name": "RadioShack", "type": "Hostel", "class": 4, "hotelid": 349, "swimpool": false}
+{"city": 81, "cost": 6191, "name": "Domtar", "type": "Guest house", "class": 2, "hotelid": 350, "swimpool": false}
+{"city": 941, "cost": 23794, "name": "Orion", "type": "Apart", "class": 4, "hotelid": 351, "swimpool": false}
+{"city": 720, "cost": 19882, "name": "American Financial Group", "type": "Mini", "class": 0, "hotelid": 353, "swimpool": false}
+{"city": 196, "cost": 5712, "name": "Mattel", "type": "Guest house", "class": 1, "hotelid": 354, "swimpool": true}
+{"city": 342, "cost": 9219, "name": "Triumph Group", "type": "Resort", "class": 4, "hotelid": 355, "swimpool": false}
+{"city": 251, "cost": 9738, "name": "Amphenol Corporation", "type": "Motel", "class": 5, "hotelid": 356, "swimpool": false}
+{"city": 232, "cost": 14318, "name": "Marshall Pottery", "type": "Mini", "class": 0, "hotelid": 357, "swimpool": false}
+{"city": 811, "cost": 18576, "name": "Acuserv", "type": "Apart", "class": 1, "hotelid": 358, "swimpool": false}
+{"city": 797, "cost": 10152, "name": "General Dynamics", "type": "Apart", "class": 1, "hotelid": 359, "swimpool": false}
+{"city": 801, "cost": 8458, "name": "Fairchild Semiconductor", "type": "Mini", "class": 2, "hotelid": 360, "swimpool": true}
+{"city": 751, "cost": 4648, "name": "The Polka Dot Bear Tavern", "type": "Motel", "class": 4, "hotelid": 361, "swimpool": true}
+{"city": 278, "cost": 3247, "name": "Fresh Start", "type": "Resort", "class": 1, "hotelid": 362, "swimpool": false}
+{"city": 690, "cost": 19195, "name": "Colt Defense", "type": "Apart", "class": 2, "hotelid": 363, "swimpool": false}
+{"city": 219, "cost": 13770, "name": "Sexy Babe", "type": "B&B", "class": 0, "hotelid": 364, "swimpool": true}
+{"city": 899, "cost": 5556, "name": "Giant Food", "type": "Apart", "class": 2, "hotelid": 365, "swimpool": false}
+{"city": 790, "cost": 578, "name": "Fireball", "type": "Guest house", "class": 3, "hotelid": 367, "swimpool": false}
+{"city": 128, "cost": 8161, "name": "Brightpoint", "type": "Mini", "class": 4, "hotelid": 368, "swimpool": true}
+{"city": 234, "cost": 9095, "name": "Seksi Ladi", "type": "Guest house", "class": 0, "hotelid": 370, "swimpool": true}
+{"city": 845, "cost": 16977, "name": "Superior Interior Design", "type": "Spa", "class": 3, "hotelid": 371, "swimpool": false}
+{"city": 295, "cost": 6093, "name": "Star Assistance", "type": "Apart", "class": 1, "hotelid": 372, "swimpool": true}
+{"city": 619, "cost": 8033, "name": "Aloha Airlines", "type": "Business", "class": 1, "hotelid": 373, "swimpool": false}
+{"city": 334, "cost": 5638, "name": "Musco Lighting", "type": "Guest house", "class": 1, "hotelid": 374, "swimpool": true}
+{"city": 706, "cost": 10502, "name": "Houchens Industries", "type": "Mini", "class": 0, "hotelid": 375, "swimpool": true}
+{"city": 902, "cost": 21110, "name": "Halliburton", "type": "Motel", "class": 5, "hotelid": 376, "swimpool": true}
+{"city": 900, "cost": 8354, "name": "Applied Materials", "type": "Business", "class": 1, "hotelid": 378, "swimpool": false}
+{"city": 490, "cost": 16184, "name": "Tanadgusix Corporation", "type": "Motel", "class": 4, "hotelid": 379, "swimpool": true}
+{"city": 590, "cost": 19907, "name": "Adaptaz", "type": "Motel", "class": 5, "hotelid": 380, "swimpool": false}
+{"city": 620, "cost": 22759, "name": "Bellwether Technology Corporation", "type": "Apart", "class": 4, "hotelid": 382, "swimpool": false}
+{"city": 75, "cost": 24352, "name": "AND1", "type": "Business", "class": 1, "hotelid": 383, "swimpool": false}
+{"city": 719, "cost": 14174, "name": "Ideal Garden Maintenance", "type": "Mini", "class": 1, "hotelid": 385, "swimpool": true}
+{"city": 737, "cost": 12811, "name": "Altec Lansing", "type": "Hostel", "class": 4, "hotelid": 386, "swimpool": true}
+{"city": 230, "cost": 3217, "name": "Hot Topic", "type": "Spa", "class": 4, "hotelid": 387, "swimpool": true}
+{"city": 12, "cost": 15981, "name": "Pro Star", "type": "Business", "class": 1, "hotelid": 388, "swimpool": false}
+{"city": 676, "cost": 22999, "name": "The Fox and Hound", "type": "Hostel", "class": 3, "hotelid": 389, "swimpool": false}
+{"city": 239, "cost": 7730, "name": "BJ's Wholesale Club", "type": "Spa", "class": 2, "hotelid": 390, "swimpool": true}
+{"city": 499, "cost": 8463, "name": "Multi-Systems Merchant Services", "type": "Guest house", "class": 5, "hotelid": 391, "swimpool": false}
+{"city": 410, "cost": 2022, "name": "Honeywell", "type": "Guest house", "class": 1, "hotelid": 392, "swimpool": true}
+{"city": 82, "cost": 7182, "name": "Ameren", "type": "Guest house", "class": 2, "hotelid": 393, "swimpool": false}
+{"city": 802, "cost": 24929, "name": "Omni Architectural Designs", "type": "Business", "class": 4, "hotelid": 394, "swimpool": false}
+{"city": 78, "cost": 9001, "name": "Adaptec", "type": "Guest house", "class": 1, "hotelid": 395, "swimpool": true}
+{"city": 696, "cost": 9263, "name": "Terra", "type": "Guest house", "class": 0, "hotelid": 396, "swimpool": false}
+{"city": 110, "cost": 2425, "name": "Macro Design", "type": "Business", "class": 1, "hotelid": 397, "swimpool": true}
+{"city": 780, "cost": 18129, "name": "KFC", "type": "Resort", "class": 1, "hotelid": 398, "swimpool": false}
+{"city": 326, "cost": 11361, "name": "Omni Tech", "type": "Guest house", "class": 1, "hotelid": 399, "swimpool": false}
+{"city": 780, "cost": 20352, "name": "Idea Infinity", "type": "Resort", "class": 0, "hotelid": 400, "swimpool": true}
+{"city": 966, "cost": 13547, "name": "Intercontinental Manufacturing Company", "type": "Hostel", "class": 4, "hotelid": 401, "swimpool": false}
+{"city": 965, "cost": 3308, "name": "CVS Pharmacy", "type": "Guest house", "class": 0, "hotelid": 402, "swimpool": false}
+{"city": 88, "cost": 15959, "name": "Total Sources", "type": "Apart", "class": 0, "hotelid": 403, "swimpool": false}
+{"city": 792, "cost": 6502, "name": "Avant Garde Appraisal", "type": "B&B", "class": 3, "hotelid": 404, "swimpool": false}
+{"city": 956, "cost": 4071, "name": "Alexander & Baldwin", "type": "B&B", "class": 2, "hotelid": 406, "swimpool": false}
+{"city": 179, "cost": 12948, "name": "America Online", "type": "Guest house", "class": 2, "hotelid": 407, "swimpool": false}
+{"city": 951, "cost": 9575, "name": "Crazy Eddie", "type": "Apart", "class": 1, "hotelid": 408, "swimpool": true}
+{"city": 568, "cost": 24028, "name": "Esselte", "type": "Mini", "class": 2, "hotelid": 409, "swimpool": false}
+{"city": 330, "cost": 10836, "name": "Emerson Radio", "type": "Guest house", "class": 3, "hotelid": 410, "swimpool": true}
+{"city": 488, "cost": 18221, "name": "The Coca-Cola Company", "type": "Hostel", "class": 4, "hotelid": 411, "swimpool": false}
+{"city": 251, "cost": 15202, "name": "Lennox International", "type": "Apart", "class": 2, "hotelid": 412, "swimpool": false}
+{"city": 248, "cost": 6769, "name": "Interstate Batteries", "type": "Apart", "class": 3, "hotelid": 413, "swimpool": true}
+{"city": 474, "cost": 5811, "name": "Complete Tech", "type": "Motel", "class": 1, "hotelid": 414, "swimpool": true}
+{"city": 567, "cost": 9558, "name": "DiC Entertainment", "type": "Spa", "class": 1, "hotelid": 415, "swimpool": false}
+{"city": 729, "cost": 9046, "name": "World of Fun", "type": "B&B", "class": 3, "hotelid": 416, "swimpool": true}
+{"city": 954, "cost": 4175, "name": "Prahject Planner", "type": "Mini", "class": 1, "hotelid": 417, "swimpool": false}
+{"city": 868, "cost": 6401, "name": "Advanced Processing & Imaging", "type": "Mini", "class": 0, "hotelid": 418, "swimpool": true}
+{"city": 988, "cost": 22969, "name": "JCPenney", "type": "Hostel", "class": 1, "hotelid": 419, "swimpool": true}
+{"city": 833, "cost": 21253, "name": "EnviroSource Design", "type": "Mini", "class": 2, "hotelid": 420, "swimpool": false}
+{"city": 688, "cost": 20018, "name": "ConocoPhillips", "type": "Apart", "class": 0, "hotelid": 421, "swimpool": true}
+{"city": 945, "cost": 3569, "name": "Vitamax Health Food Center", "type": "Mini", "class": 4, "hotelid": 423, "swimpool": true}
+{"city": 567, "cost": 4299, "name": "Crazy Tiger", "type": "Hostel", "class": 0, "hotelid": 424, "swimpool": true}
+{"city": 683, "cost": 16752, "name": "Asian Answers", "type": "Resort", "class": 1, "hotelid": 425, "swimpool": false}
+{"city": 44, "cost": 16002, "name": "CoolTouch Monitors", "type": "Resort", "class": 0, "hotelid": 427, "swimpool": false}
+{"city": 989, "cost": 5377, "name": "Nortax", "type": "Resort", "class": 4, "hotelid": 428, "swimpool": false}
+{"city": 180, "cost": 13894, "name": "Corpbay", "type": "Resort", "class": 1, "hotelid": 430, "swimpool": false}
+{"city": 529, "cost": 10802, "name": "Texas Instruments", "type": "Motel", "class": 2, "hotelid": 431, "swimpool": true}
+{"city": 511, "cost": 8224, "name": "Macroserve", "type": "Resort", "class": 1, "hotelid": 432, "swimpool": true}
+{"city": 972, "cost": 20106, "name": "Fox Film Corporation", "type": "Spa", "class": 2, "hotelid": 433, "swimpool": true}
+{"city": 931, "cost": 19528, "name": "Lawn N' Order Garden Care", "type": "Spa", "class": 1, "hotelid": 434, "swimpool": false}
+{"city": 416, "cost": 6169, "name": "Walt Disney Company", "type": "Mini", "class": 1, "hotelid": 435, "swimpool": false}
+{"city": 743, "cost": 18738, "name": "Zoo York", "type": "Motel", "class": 4, "hotelid": 436, "swimpool": false}
+{"city": 636, "cost": 8664, "name": "Dr Pepper Snapple Group", "type": "B&B", "class": 5, "hotelid": 437, "swimpool": false}
+{"city": 69, "cost": 9252, "name": "Hardee's", "type": "Guest house", "class": 2, "hotelid": 439, "swimpool": false}
+{"city": 452, "cost": 20809, "name": "i-flex Solutions", "type": "B&B", "class": 0, "hotelid": 440, "swimpool": false}
+{"city": 718, "cost": 9681, "name": "Venus Swimwear", "type": "Resort", "class": 0, "hotelid": 441, "swimpool": true}
+{"city": 232, "cost": 3349, "name": "Devon Energy", "type": "Spa", "class": 1, "hotelid": 442, "swimpool": true}
+{"city": 741, "cost": 1362, "name": "Total Network Development", "type": "Mini", "class": 0, "hotelid": 443, "swimpool": false}
+{"city": 369, "cost": 20623, "name": "Rockwell Collins", "type": "Resort", "class": 5, "hotelid": 444, "swimpool": false}
+{"city": 477, "cost": 4391, "name": "Goodyear Tire and Rubber Company", "type": "Spa", "class": 2, "hotelid": 445, "swimpool": false}
+{"city": 857, "cost": 4365, "name": "Sauer-Danfoss", "type": "Guest house", "class": 1, "hotelid": 446, "swimpool": true}
+{"city": 910, "cost": 21783, "name": "Kroger", "type": "Hostel", "class": 3, "hotelid": 447, "swimpool": true}
+{"city": 68, "cost": 11216, "name": "The High Heelers", "type": "B&B", "class": 5, "hotelid": 448, "swimpool": true}
+{"city": 691, "cost": 16605, "name": "Environ Architectural Design", "type": "Apart", "class": 5, "hotelid": 449, "swimpool": true}
+{"city": 119, "cost": 23562, "name": "Steinway & Sons", "type": "Resort", "class": 5, "hotelid": 450, "swimpool": false}
+{"city": 17, "cost": 13360, "name": "A+ Investments", "type": "Motel", "class": 5, "hotelid": 451, "swimpool": true}
+{"city": 54, "cost": 8197, "name": "Titania", "type": "Apart", "class": 1, "hotelid": 452, "swimpool": false}
+{"city": 461, "cost": 622, "name": "The Flying Bear", "type": "Guest house", "class": 3, "hotelid": 453, "swimpool": false}
+{"city": 598, "cost": 24076, "name": "Omni Tech Solutions", "type": "Apart", "class": 2, "hotelid": 454, "swimpool": true}
+{"city": 829, "cost": 23951, "name": "XPAC", "type": "Mini", "class": 1, "hotelid": 455, "swimpool": true}
+{"city": 935, "cost": 18541, "name": "Royal Caribbean International", "type": "Apart", "class": 5, "hotelid": 456, "swimpool": false}
+{"city": 810, "cost": 4229, "name": "Nordstrom", "type": "Apart", "class": 3, "hotelid": 457, "swimpool": true}
+{"city": 325, "cost": 4235, "name": "Baker Hughes", "type": "Motel", "class": 5, "hotelid": 458, "swimpool": false}
+{"city": 428, "cost": 11515, "name": "Cut Rite Lawn Care", "type": "B&B", "class": 1, "hotelid": 460, "swimpool": true}
+{"city": 889, "cost": 5680, "name": "Affiliated Computer Services", "type": "Spa", "class": 5, "hotelid": 461, "swimpool": false}
+{"city": 347, "cost": 17619, "name": "Garden Master", "type": "Hostel", "class": 0, "hotelid": 462, "swimpool": false}
+{"city": 439, "cost": 16445, "name": "SBC Communications", "type": "Resort", "class": 3, "hotelid": 463, "swimpool": false}
+{"city": 318, "cost": 24270, "name": "Prospa-Pal", "type": "Resort", "class": 4, "hotelid": 464, "swimpool": false}
+{"city": 106, "cost": 7478, "name": "Road Runner Lawn Services", "type": "Resort", "class": 2, "hotelid": 465, "swimpool": false}
+{"city": 867, "cost": 2642, "name": "Red Fox Tavern", "type": "Resort", "class": 3, "hotelid": 466, "swimpool": true}
+{"city": 508, "cost": 4506, "name": "Whole Foods Market", "type": "Guest house", "class": 5, "hotelid": 467, "swimpool": false}
+{"city": 924, "cost": 4309, "name": "Antec", "type": "Business", "class": 5, "hotelid": 469, "swimpool": true}
+{"city": 352, "cost": 16690, "name": "United Services Automobile Association", "type": "Resort", "class": 4, "hotelid": 470, "swimpool": true}
+{"city": 176, "cost": 11918, "name": "Papa John's Pizza", "type": "Business", "class": 5, "hotelid": 472, "swimpool": true}
+{"city": 277, "cost": 21860, "name": "Northwest Airlines", "type": "Motel", "class": 1, "hotelid": 473, "swimpool": true}
+{"city": 307, "cost": 10671, "name": "Brookdale Senior Living", "type": "Mini", "class": 3, "hotelid": 474, "swimpool": true}
+{"city": 581, "cost": 3224, "name": "Balanced Fortune", "type": "Mini", "class": 3, "hotelid": 475, "swimpool": false}
+{"city": 758, "cost": 18219, "name": "Dominion Resources", "type": "Business", "class": 2, "hotelid": 476, "swimpool": true}
+{"city": 811, "cost": 23880, "name": "AutoZone", "type": "Resort", "class": 1, "hotelid": 477, "swimpool": false}
+{"city": 843, "cost": 13523, "name": "Practi-Plan Mapping", "type": "Apart", "class": 4, "hotelid": 478, "swimpool": false}
+{"city": 166, "cost": 5380, "name": "Allergan", "type": "Motel", "class": 4, "hotelid": 479, "swimpool": false}
+{"city": 942, "cost": 6060, "name": "Reliable Guidance", "type": "Motel", "class": 4, "hotelid": 480, "swimpool": false}
+{"city": 15, "cost": 22263, "name": "Best Biz Survis", "type": "B&B", "class": 3, "hotelid": 481, "swimpool": false}
+{"city": 518, "cost": 4753, "name": "Beazer Homes USA", "type": "Spa", "class": 4, "hotelid": 482, "swimpool": true}
+{"city": 42, "cost": 23981, "name": "Peterbilt", "type": "Resort", "class": 0, "hotelid": 483, "swimpool": false}
+{"city": 545, "cost": 6024, "name": "Bealls", "type": "Apart", "class": 3, "hotelid": 484, "swimpool": true}
+{"city": 275, "cost": 24342, "name": "AVST", "type": "Business", "class": 1, "hotelid": 485, "swimpool": true}
+{"city": 915, "cost": 22543, "name": "Federal National Mortgage Association", "type": "B&B", "class": 4, "hotelid": 486, "swimpool": false}
+{"city": 529, "cost": 24375, "name": "Rent-A-Wreck", "type": "Motel", "class": 0, "hotelid": 487, "swimpool": true}
+{"city": 494, "cost": 18075, "name": "Komerci", "type": "Hostel", "class": 2, "hotelid": 489, "swimpool": true}
+{"city": 334, "cost": 20174, "name": "Danaher", "type": "Hostel", "class": 2, "hotelid": 490, "swimpool": false}
+{"city": 211, "cost": 3672, "name": "Veramons", "type": "Motel", "class": 1, "hotelid": 494, "swimpool": true}
+{"city": 715, "cost": 21566, "name": "Planet Profit", "type": "Motel", "class": 4, "hotelid": 495, "swimpool": true}
+{"city": 854, "cost": 20668, "name": "Dun Rite Lawn Care", "type": "Mini", "class": 2, "hotelid": 496, "swimpool": true}
+{"city": 453, "cost": 23248, "name": "Lumencraft", "type": "Hostel", "class": 2, "hotelid": 498, "swimpool": true}
+{"city": 182, "cost": 5535, "name": "CNET", "type": "Mini", "class": 1, "hotelid": 499, "swimpool": false}
+{"city": 630, "cost": 6325, "name": "Hewlett-Packard", "type": "Apart", "class": 0, "hotelid": 500, "swimpool": false}
+{"city": 601, "cost": 22614, "name": "Happy Family", "type": "Mini", "class": 1, "hotelid": 501, "swimpool": true}
+{"city": 415, "cost": 3150, "name": "Supervalu", "type": "Business", "class": 5, "hotelid": 502, "swimpool": true}
+{"city": 795, "cost": 23759, "name": "Sequoia Voting Systems", "type": "Spa", "class": 4, "hotelid": 503, "swimpool": true}
+{"city": 859, "cost": 2721, "name": "Stratagee", "type": "Apart", "class": 5, "hotelid": 504, "swimpool": false}
+{"city": 560, "cost": 3004, "name": "Union Oil Company of California (Unocal)", "type": "Guest house", "class": 3, "hotelid": 505, "swimpool": false}
+{"city": 487, "cost": 15216, "name": "Platinum Interior Design", "type": "Apart", "class": 0, "hotelid": 506, "swimpool": true}
+{"city": 127, "cost": 17012, "name": "Sistemos", "type": "Hostel", "class": 5, "hotelid": 507, "swimpool": false}
+{"city": 787, "cost": 23013, "name": "Envirotecture Design Service", "type": "B&B", "class": 5, "hotelid": 508, "swimpool": true}
+{"city": 601, "cost": 15021, "name": "THQ", "type": "Apart", "class": 5, "hotelid": 509, "swimpool": true}
+{"city": 911, "cost": 13300, "name": "Bain & Company", "type": "B&B", "class": 1, "hotelid": 510, "swimpool": true}
+{"city": 50, "cost": 19234, "name": "Auto-Owners Insurance", "type": "Spa", "class": 1, "hotelid": 511, "swimpool": false}
+{"city": 148, "cost": 9055, "name": "Federal Home Loan Mortgage Corporation", "type": "Spa", "class": 0, "hotelid": 512, "swimpool": false}
+{"city": 619, "cost": 2187, "name": "Destiny Realty Solutions", "type": "Spa", "class": 4, "hotelid": 513, "swimpool": false}
+{"city": 21, "cost": 16832, "name": "Procter & Gamble", "type": "Spa", "class": 2, "hotelid": 514, "swimpool": false}
+{"city": 45, "cost": 1285, "name": "Always (product)", "type": "Resort", "class": 0, "hotelid": 515, "swimpool": true}
+{"city": 533, "cost": 15550, "name": "Fresh&Easy Neighbourhood Market", "type": "Motel", "class": 0, "hotelid": 516, "swimpool": true}
+{"city": 467, "cost": 14486, "name": "Chrysler", "type": "Motel", "class": 5, "hotelid": 517, "swimpool": false}
+{"city": 832, "cost": 8920, "name": "Nike", "type": "Resort", "class": 5, "hotelid": 518, "swimpool": false}
+{"city": 795, "cost": 2753, "name": "A+ Electronics", "type": "Mini", "class": 4, "hotelid": 519, "swimpool": false}
+{"city": 666, "cost": 8906, "name": "Total Yard Management", "type": "Apart", "class": 2, "hotelid": 521, "swimpool": false}
+{"city": 189, "cost": 18494, "name": "Prestigabiz", "type": "Spa", "class": 5, "hotelid": 522, "swimpool": true}
+{"city": 543, "cost": 16536, "name": "QCR Holdings", "type": "Mini", "class": 0, "hotelid": 523, "swimpool": false}
+{"city": 48, "cost": 16401, "name": "PACCAR", "type": "Apart", "class": 3, "hotelid": 524, "swimpool": false}
+{"city": 223, "cost": 11492, "name": "Borders Group", "type": "Motel", "class": 0, "hotelid": 525, "swimpool": false}
+{"city": 12, "cost": 1623, "name": "Ameriprise Financial", "type": "Business", "class": 3, "hotelid": 526, "swimpool": false}
+{"city": 132, "cost": 10301, "name": "Casco Bay Lines", "type": "B&B", "class": 5, "hotelid": 527, "swimpool": false}
+{"city": 203, "cost": 24029, "name": "Victoria's Secret", "type": "Business", "class": 3, "hotelid": 528, "swimpool": true}
+{"city": 892, "cost": 12342, "name": "Envirotecture Design", "type": "B&B", "class": 5, "hotelid": 529, "swimpool": false}
+{"city": 90, "cost": 8193, "name": "Perisolution", "type": "Motel", "class": 1, "hotelid": 530, "swimpool": false}
+{"city": 659, "cost": 7803, "name": "MasterCard", "type": "Spa", "class": 2, "hotelid": 531, "swimpool": false}
+{"city": 1000, "cost": 18971, "name": "H-E-B", "type": "Guest house", "class": 5, "hotelid": 532, "swimpool": true}
+{"city": 751, "cost": 6966, "name": "Buena Vista Realty Service", "type": "Apart", "class": 3, "hotelid": 533, "swimpool": false}
+{"city": 409, "cost": 952, "name": "Accord Investments", "type": "Spa", "class": 0, "hotelid": 534, "swimpool": false}
+{"city": 826, "cost": 11600, "name": "Bountiful Harvest Health Food Store", "type": "B&B", "class": 1, "hotelid": 535, "swimpool": false}
+{"city": 448, "cost": 2377, "name": "Towers Perrin", "type": "Motel", "class": 4, "hotelid": 536, "swimpool": false}
+{"city": 929, "cost": 13506, "name": "AirTran Holdings", "type": "Mini", "class": 4, "hotelid": 537, "swimpool": true}
+{"city": 683, "cost": 22606, "name": "Analog Devices", "type": "Guest house", "class": 5, "hotelid": 539, "swimpool": true}
+{"city": 879, "cost": 15843, "name": "Fluor Corp", "type": "Guest house", "class": 3, "hotelid": 540, "swimpool": false}
+{"city": 725, "cost": 7621, "name": "American Express", "type": "Mini", "class": 0, "hotelid": 541, "swimpool": false}
+{"city": 502, "cost": 5861, "name": "CNA", "type": "Mini", "class": 1, "hotelid": 542, "swimpool": true}
+{"city": 24, "cost": 24385, "name": "Cougar Investment", "type": "Guest house", "class": 0, "hotelid": 543, "swimpool": false}
+{"city": 360, "cost": 2506, "name": "First Choice Garden Maintenance", "type": "Motel", "class": 3, "hotelid": 544, "swimpool": true}
+{"city": 896, "cost": 23201, "name": "Naturohair", "type": "Guest house", "class": 2, "hotelid": 545, "swimpool": false}
+{"city": 832, "cost": 4100, "name": "Just For Fun", "type": "Mini", "class": 5, "hotelid": 546, "swimpool": true}
+{"city": 838, "cost": 10809, "name": "Gold Touch", "type": "Guest house", "class": 3, "hotelid": 547, "swimpool": true}
+{"city": 557, "cost": 5793, "name": "Desert Garden Help", "type": "Resort", "class": 0, "hotelid": 549, "swimpool": true}
+{"city": 333, "cost": 18938, "name": "GE Consumer & Industrial", "type": "Hostel", "class": 1, "hotelid": 550, "swimpool": true}
+{"city": 883, "cost": 16320, "name": "ViewSonic", "type": "Resort", "class": 5, "hotelid": 551, "swimpool": false}
+{"city": 375, "cost": 13309, "name": "Ideal Garden Management", "type": "Mini", "class": 4, "hotelid": 553, "swimpool": true}
+{"city": 467, "cost": 13405, "name": "International Game Technology (IGT)", "type": "Guest house", "class": 0, "hotelid": 554, "swimpool": true}
+{"city": 493, "cost": 13937, "name": "Pro-Care Garden Maintenance", "type": "Hostel", "class": 3, "hotelid": 555, "swimpool": true}
+{"city": 750, "cost": 13575, "name": "Baldor Electric Company", "type": "Motel", "class": 5, "hotelid": 556, "swimpool": false}
+{"city": 350, "cost": 15891, "name": "DISH Network", "type": "Apart", "class": 0, "hotelid": 557, "swimpool": true}
+{"city": 433, "cost": 22074, "name": "Verbatim Corporation", "type": "Spa", "class": 2, "hotelid": 558, "swimpool": true}
+{"city": 551, "cost": 12386, "name": "AES Corporation", "type": "B&B", "class": 0, "hotelid": 559, "swimpool": false}
+{"city": 833, "cost": 1513, "name": "Magik Gray", "type": "Motel", "class": 0, "hotelid": 560, "swimpool": true}
+{"city": 988, "cost": 16296, "name": "Cartoon Network Studios", "type": "Spa", "class": 5, "hotelid": 561, "swimpool": false}
+{"city": 38, "cost": 21399, "name": "Quickbiz", "type": "B&B", "class": 3, "hotelid": 562, "swimpool": true}
+{"city": 845, "cost": 8136, "name": "Apache Software Foundation", "type": "Guest house", "class": 2, "hotelid": 563, "swimpool": false}
+{"city": 115, "cost": 1128, "name": "Del Monte Foods", "type": "Hostel", "class": 1, "hotelid": 564, "swimpool": false}
+{"city": 228, "cost": 17661, "name": "Winnebago Industries", "type": "Resort", "class": 3, "hotelid": 565, "swimpool": true}
+{"city": 806, "cost": 11079, "name": "Bushmaster Firearms International", "type": "Business", "class": 1, "hotelid": 566, "swimpool": true}
+{"city": 420, "cost": 18535, "name": "NetApp", "type": "Mini", "class": 2, "hotelid": 567, "swimpool": true}
+{"city": 984, "cost": 19901, "name": "Mission You", "type": "Business", "class": 3, "hotelid": 568, "swimpool": false}
+{"city": 343, "cost": 21427, "name": "Chicago Bridge & Iron Company", "type": "Motel", "class": 0, "hotelid": 569, "swimpool": false}
+{"city": 700, "cost": 12620, "name": "Houlihan's", "type": "Motel", "class": 3, "hotelid": 570, "swimpool": true}
+{"city": 12, "cost": 10300, "name": "Boston Acoustics", "type": "Business", "class": 4, "hotelid": 571, "swimpool": true}
+{"city": 901, "cost": 12474, "name": "Brinks", "type": "Motel", "class": 3, "hotelid": 242, "swimpool": true}
+{"city": 351, "cost": 12771, "name": "PepsiCo", "type": "Hostel", "class": 3, "hotelid": 573, "swimpool": true}
+{"city": 56, "cost": 18878, "name": "Qualcomm", "type": "Guest house", "class": 2, "hotelid": 574, "swimpool": true}
+{"city": 23, "cost": 23115, "name": "Maxtor Corporation", "type": "Spa", "class": 0, "hotelid": 575, "swimpool": false}
+{"city": 579, "cost": 14384, "name": "Smith and Company", "type": "Business", "class": 0, "hotelid": 576, "swimpool": true}
+{"city": 897, "cost": 14161, "name": "Ann Taylor", "type": "Guest house", "class": 2, "hotelid": 577, "swimpool": true}
+{"city": 596, "cost": 2927, "name": "Take-Two Interactive", "type": "Mini", "class": 5, "hotelid": 578, "swimpool": false}
+{"city": 791, "cost": 10058, "name": "Spherion", "type": "Guest house", "class": 2, "hotelid": 579, "swimpool": false}
+{"city": 887, "cost": 4990, "name": "Jarden", "type": "Mini", "class": 2, "hotelid": 580, "swimpool": true}
+{"city": 794, "cost": 11911, "name": "Zapata", "type": "Apart", "class": 5, "hotelid": 581, "swimpool": false}
+{"city": 259, "cost": 13028, "name": "American Family Insurance", "type": "Apart", "class": 2, "hotelid": 582, "swimpool": false}
+{"city": 928, "cost": 23483, "name": "Costco", "type": "Business", "class": 0, "hotelid": 583, "swimpool": true}
+{"city": 169, "cost": 16197, "name": "Kohler Company", "type": "Mini", "class": 5, "hotelid": 584, "swimpool": false}
+{"city": 230, "cost": 20758, "name": "Bank of America", "type": "B&B", "class": 4, "hotelid": 585, "swimpool": false}
+{"city": 528, "cost": 17038, "name": "BJ Services Company", "type": "Motel", "class": 5, "hotelid": 586, "swimpool": false}
+{"city": 948, "cost": 13597, "name": "Dover Corporation", "type": "Resort", "class": 3, "hotelid": 587, "swimpool": true}
+{"city": 398, "cost": 10155, "name": "Air Products & Chemicals", "type": "Business", "class": 1, "hotelid": 588, "swimpool": true}
+{"city": 152, "cost": 15669, "name": "First Hawaiian Bank", "type": "Resort", "class": 5, "hotelid": 589, "swimpool": true}
+{"city": 85, "cost": 20021, "name": "Marriott Corporation", "type": "Guest house", "class": 3, "hotelid": 590, "swimpool": false}
+{"city": 958, "cost": 14469, "name": "Infinite Wealth", "type": "Business", "class": 1, "hotelid": 591, "swimpool": true}
+{"city": 140, "cost": 8828, "name": "Goldman Sachs", "type": "Guest house", "class": 2, "hotelid": 592, "swimpool": false}
+{"city": 132, "cost": 7119, "name": "Group O", "type": "B&B", "class": 2, "hotelid": 593, "swimpool": false}
+{"city": 434, "cost": 14905, "name": "Acuity Brands", "type": "Hostel", "class": 1, "hotelid": 594, "swimpool": false}
+{"city": 321, "cost": 11366, "name": "ACCO Brands", "type": "B&B", "class": 1, "hotelid": 595, "swimpool": true}
+{"city": 819, "cost": 23267, "name": "Wealth Zone Group", "type": "Resort", "class": 1, "hotelid": 596, "swimpool": false}
+{"city": 388, "cost": 5990, "name": "Fisher Electronics", "type": "B&B", "class": 4, "hotelid": 597, "swimpool": false}
+{"city": 862, "cost": 18290, "name": "Netaid", "type": "Mini", "class": 0, "hotelid": 598, "swimpool": true}
+{"city": 755, "cost": 7133, "name": "Kellogg Company", "type": "Business", "class": 2, "hotelid": 600, "swimpool": false}
+{"city": 948, "cost": 22642, "name": "Solution Realty", "type": "B&B", "class": 2, "hotelid": 601, "swimpool": true}
+{"city": 268, "cost": 9494, "name": "Darden Restaurants", "type": "Resort", "class": 5, "hotelid": 602, "swimpool": true}
+{"city": 327, "cost": 16987, "name": "StopGrey", "type": "B&B", "class": 3, "hotelid": 603, "swimpool": true}
+{"city": 709, "cost": 7877, "name": "Calpine", "type": "Apart", "class": 0, "hotelid": 604, "swimpool": false}
+{"city": 559, "cost": 18816, "name": "Target Corporation", "type": "Motel", "class": 1, "hotelid": 605, "swimpool": true}
+{"city": 5, "cost": 9066, "name": "Kerr-McGee", "type": "Guest house", "class": 0, "hotelid": 606, "swimpool": false}
+{"city": 950, "cost": 18997, "name": "Xray Eye & Vision Clinics", "type": "Business", "class": 5, "hotelid": 607, "swimpool": true}
+{"city": 907, "cost": 23334, "name": "AmerisourceBergen", "type": "B&B", "class": 4, "hotelid": 608, "swimpool": false}
+{"city": 532, "cost": 6914, "name": "Soyo Group", "type": "B&B", "class": 4, "hotelid": 609, "swimpool": true}
+{"city": 980, "cost": 11283, "name": "Magna Consulting", "type": "Motel", "class": 1, "hotelid": 610, "swimpool": true}
+{"city": 623, "cost": 5428, "name": "Anixter International", "type": "Guest house", "class": 5, "hotelid": 611, "swimpool": true}
+{"city": 930, "cost": 23697, "name": "Tropicana Products", "type": "Motel", "class": 3, "hotelid": 612, "swimpool": false}
+{"city": 312, "cost": 8822, "name": "SkyWest Airlines", "type": "Guest house", "class": 2, "hotelid": 613, "swimpool": false}
+{"city": 617, "cost": 16042, "name": "Spanx", "type": "Spa", "class": 5, "hotelid": 615, "swimpool": true}
+{"city": 894, "cost": 9925, "name": "Simply Appraisals", "type": "Hostel", "class": 5, "hotelid": 616, "swimpool": false}
+{"city": 595, "cost": 9267, "name": "Popeyes Chicken & Biscuits", "type": "Resort", "class": 0, "hotelid": 617, "swimpool": true}
+{"city": 24, "cost": 18829, "name": "Rockstar Games", "type": "Spa", "class": 0, "hotelid": 618, "swimpool": true}
+{"city": 814, "cost": 2144, "name": "Numark (DJ equipment)", "type": "Guest house", "class": 3, "hotelid": 619, "swimpool": false}
+{"city": 219, "cost": 18587, "name": "Monk Real Estate Service", "type": "Hostel", "class": 4, "hotelid": 620, "swimpool": false}
+{"city": 427, "cost": 20052, "name": "Exact Solutions", "type": "Motel", "class": 2, "hotelid": 621, "swimpool": true}
+{"city": 773, "cost": 22444, "name": "Simply Save", "type": "B&B", "class": 1, "hotelid": 622, "swimpool": true}
+{"city": 586, "cost": 24084, "name": "Zune", "type": "Motel", "class": 1, "hotelid": 623, "swimpool": true}
+{"city": 74, "cost": 1743, "name": "Alliant Techsystems", "type": "Business", "class": 5, "hotelid": 624, "swimpool": true}
+{"city": 431, "cost": 18680, "name": "Bath & Body Works", "type": "Resort", "class": 3, "hotelid": 625, "swimpool": true}
+{"city": 514, "cost": 14534, "name": "Equifax", "type": "B&B", "class": 5, "hotelid": 627, "swimpool": false}
+{"city": 535, "cost": 883, "name": "Brilliant Home Designs", "type": "Resort", "class": 4, "hotelid": 628, "swimpool": false}
+{"city": 344, "cost": 13952, "name": "Sonic Solutions", "type": "Mini", "class": 2, "hotelid": 629, "swimpool": false}
+{"city": 971, "cost": 17163, "name": "Sunoco", "type": "Business", "class": 3, "hotelid": 630, "swimpool": false}
+{"city": 728, "cost": 8306, "name": "Enterprise GP Holdings", "type": "Apart", "class": 3, "hotelid": 631, "swimpool": true}
+{"city": 698, "cost": 9754, "name": "Netcore", "type": "Apart", "class": 5, "hotelid": 632, "swimpool": true}
+{"city": 499, "cost": 18248, "name": "Electronic Arts", "type": "Mini", "class": 4, "hotelid": 633, "swimpool": false}
+{"city": 75, "cost": 22576, "name": "Ubu Productions", "type": "Motel", "class": 1, "hotelid": 634, "swimpool": false}
+{"city": 342, "cost": 8512, "name": "Simple Solutions", "type": "Hostel", "class": 5, "hotelid": 635, "swimpool": true}
+{"city": 729, "cost": 23536, "name": "BorgWarner", "type": "Business", "class": 0, "hotelid": 636, "swimpool": false}
+{"city": 446, "cost": 5087, "name": "Grey Fade", "type": "Resort", "class": 1, "hotelid": 637, "swimpool": true}
+{"city": 258, "cost": 16101, "name": "Realty Depot", "type": "Business", "class": 3, "hotelid": 638, "swimpool": true}
+{"city": 110, "cost": 2191, "name": "Xilinx", "type": "B&B", "class": 1, "hotelid": 639, "swimpool": true}
+{"city": 212, "cost": 15592, "name": "Manu Connection", "type": "Business", "class": 2, "hotelid": 640, "swimpool": true}
+{"city": 938, "cost": 10016, "name": "Friendly Advice", "type": "Resort", "class": 2, "hotelid": 641, "swimpool": true}
+{"city": 861, "cost": 1308, "name": "Wynn Resorts", "type": "Hostel", "class": 5, "hotelid": 642, "swimpool": false}
+{"city": 799, "cost": 6441, "name": "DaVita", "type": "Mini", "class": 0, "hotelid": 643, "swimpool": false}
+{"city": 271, "cost": 23815, "name": "Stratacard", "type": "Business", "class": 5, "hotelid": 644, "swimpool": false}
+{"city": 359, "cost": 13991, "name": "Anadarko Petroleum Corporation", "type": "B&B", "class": 2, "hotelid": 645, "swimpool": false}
+{"city": 60, "cost": 21667, "name": "Castle Realty", "type": "B&B", "class": 2, "hotelid": 646, "swimpool": true}
+{"city": 637, "cost": 24174, "name": "VonMaur", "type": "Business", "class": 3, "hotelid": 647, "swimpool": true}
+{"city": 767, "cost": 17478, "name": "Storage Technology Corporation", "type": "Guest house", "class": 2, "hotelid": 648, "swimpool": true}
+{"city": 557, "cost": 5092, "name": "Life's Gold", "type": "Mini", "class": 4, "hotelid": 649, "swimpool": true}
+{"city": 54, "cost": 7469, "name": "Hoyden", "type": "Spa", "class": 1, "hotelid": 650, "swimpool": false}
+{"city": 249, "cost": 20319, "name": "World Airways", "type": "Hostel", "class": 5, "hotelid": 651, "swimpool": true}
+{"city": 352, "cost": 2132, "name": "Imation", "type": "Apart", "class": 2, "hotelid": 652, "swimpool": false}
+{"city": 788, "cost": 7238, "name": "Citigroup", "type": "Hostel", "class": 1, "hotelid": 653, "swimpool": true}
+{"city": 282, "cost": 21333, "name": "Custom Lawn Care", "type": "Motel", "class": 5, "hotelid": 654, "swimpool": false}
+{"city": 564, "cost": 18108, "name": "Airgas", "type": "B&B", "class": 3, "hotelid": 655, "swimpool": true}
+{"city": 196, "cost": 9253, "name": "SanDisk", "type": "Resort", "class": 3, "hotelid": 656, "swimpool": true}
+{"city": 782, "cost": 24944, "name": "Broadcom", "type": "B&B", "class": 0, "hotelid": 657, "swimpool": false}
+{"city": 129, "cost": 7566, "name": "Transocean", "type": "Guest house", "class": 5, "hotelid": 659, "swimpool": true}
+{"city": 203, "cost": 2306, "name": "Dow Chemical Company", "type": "B&B", "class": 2, "hotelid": 660, "swimpool": false}
+{"city": 359, "cost": 24342, "name": "Arctic Cat", "type": "Resort", "class": 3, "hotelid": 661, "swimpool": false}
+{"city": 885, "cost": 16299, "name": "Starbucks", "type": "Motel", "class": 1, "hotelid": 662, "swimpool": true}
+{"city": 338, "cost": 22199, "name": "Washburn Guitars", "type": "B&B", "class": 3, "hotelid": 663, "swimpool": true}
+{"city": 623, "cost": 17662, "name": "Belkin", "type": "B&B", "class": 4, "hotelid": 664, "swimpool": false}
+{"city": 32, "cost": 22649, "name": "Body Toning", "type": "Motel", "class": 3, "hotelid": 665, "swimpool": false}
+{"city": 11, "cost": 13452, "name": "Motorola", "type": "Hostel", "class": 2, "hotelid": 666, "swimpool": false}
+{"city": 340, "cost": 19998, "name": "Oreck Corporation", "type": "Mini", "class": 4, "hotelid": 667, "swimpool": false}
+{"city": 165, "cost": 13324, "name": "Mikro Designs", "type": "Guest house", "class": 0, "hotelid": 668, "swimpool": false}
+{"city": 736, "cost": 7425, "name": "Viacom", "type": "Resort", "class": 0, "hotelid": 669, "swimpool": true}
+{"city": 668, "cost": 14522, "name": "Helping Hand", "type": "B&B", "class": 4, "hotelid": 670, "swimpool": true}
+{"city": 195, "cost": 10429, "name": "Romp", "type": "Apart", "class": 2, "hotelid": 671, "swimpool": false}
+{"city": 70, "cost": 22228, "name": "Infor", "type": "Guest house", "class": 5, "hotelid": 672, "swimpool": false}
+{"city": 253, "cost": 7818, "name": "Mozilla Foundation", "type": "Business", "class": 3, "hotelid": 673, "swimpool": true}
+{"city": 897, "cost": 21376, "name": "Principal Financial Group", "type": "B&B", "class": 0, "hotelid": 674, "swimpool": false}
+{"city": 756, "cost": 7588, "name": "Plochman's", "type": "Hostel", "class": 5, "hotelid": 675, "swimpool": false}
+{"city": 145, "cost": 13648, "name": "Zenith Electronics", "type": "Motel", "class": 0, "hotelid": 676, "swimpool": false}
+{"city": 310, "cost": 8746, "name": "Creative Wealth", "type": "Mini", "class": 3, "hotelid": 677, "swimpool": false}
+{"city": 84, "cost": 2817, "name": "Las Vegas Yard Management", "type": "Resort", "class": 0, "hotelid": 678, "swimpool": true}
+{"city": 24, "cost": 15452, "name": "Circuit Design", "type": "Business", "class": 4, "hotelid": 679, "swimpool": false}
+{"city": 177, "cost": 1430, "name": "Network Air", "type": "Resort", "class": 1, "hotelid": 680, "swimpool": false}
+{"city": 790, "cost": 5908, "name": "Jackpot Consultant", "type": "Spa", "class": 0, "hotelid": 682, "swimpool": true}
+{"city": 403, "cost": 8320, "name": "Architectural Genie", "type": "Resort", "class": 3, "hotelid": 684, "swimpool": true}
+{"city": 254, "cost": 9668, "name": "Atlas Architectural Designs", "type": "Resort", "class": 0, "hotelid": 685, "swimpool": true}
+{"city": 31, "cost": 17494, "name": "Gas Depot", "type": "Guest house", "class": 5, "hotelid": 686, "swimpool": false}
+{"city": 238, "cost": 17075, "name": "Tesoro", "type": "Business", "class": 2, "hotelid": 687, "swimpool": true}
+{"city": 570, "cost": 23176, "name": "Boyd Gaming", "type": "Spa", "class": 1, "hotelid": 688, "swimpool": false}
+{"city": 729, "cost": 19643, "name": "JL Audio", "type": "Business", "class": 0, "hotelid": 689, "swimpool": false}
+{"city": 374, "cost": 14550, "name": "Applebee's", "type": "B&B", "class": 0, "hotelid": 690, "swimpool": true}
+{"city": 108, "cost": 10591, "name": "Terra Nova Garden Services", "type": "Resort", "class": 4, "hotelid": 691, "swimpool": true}
+{"city": 385, "cost": 16742, "name": "Rivera Property Maintenance", "type": "Hostel", "class": 4, "hotelid": 692, "swimpool": true}
+{"city": 363, "cost": 4050, "name": "Rainbow Life", "type": "Apart", "class": 1, "hotelid": 693, "swimpool": true}
+{"city": 97, "cost": 11872, "name": "Belle Lady", "type": "Motel", "class": 1, "hotelid": 694, "swimpool": false}
+{"city": 122, "cost": 7372, "name": "Garden Guru", "type": "Resort", "class": 0, "hotelid": 695, "swimpool": false}
+{"city": 931, "cost": 13043, "name": "Tempur-Pedic", "type": "Business", "class": 1, "hotelid": 696, "swimpool": false}
+{"city": 212, "cost": 24593, "name": "The Vanguard Group", "type": "Spa", "class": 3, "hotelid": 697, "swimpool": true}
+{"city": 382, "cost": 3628, "name": "Lockheed Martin", "type": "Mini", "class": 1, "hotelid": 698, "swimpool": false}
+{"city": 727, "cost": 11242, "name": "Exelon Corporation", "type": "Apart", "class": 4, "hotelid": 699, "swimpool": false}
+{"city": 284, "cost": 13632, "name": "Westat", "type": "Business", "class": 5, "hotelid": 700, "swimpool": false}
+{"city": 124, "cost": 17113, "name": "Quanta Services", "type": "Mini", "class": 2, "hotelid": 960, "swimpool": false}
+{"city": 599, "cost": 20260, "name": "Polaroid Corporation", "type": "Resort", "class": 2, "hotelid": 702, "swimpool": false}
+{"city": 781, "cost": 18384, "name": "International Paper", "type": "Motel", "class": 3, "hotelid": 703, "swimpool": false}
+{"city": 884, "cost": 6025, "name": "Allegheny Technologies", "type": "Hostel", "class": 4, "hotelid": 704, "swimpool": true}
+{"city": 383, "cost": 3170, "name": "Subway", "type": "Resort", "class": 2, "hotelid": 705, "swimpool": false}
+{"city": 815, "cost": 8687, "name": "Benchmark Electronics", "type": "Business", "class": 1, "hotelid": 706, "swimpool": false}
+{"city": 333, "cost": 22033, "name": "Armstrong World Industries", "type": "Mini", "class": 2, "hotelid": 707, "swimpool": false}
+{"city": 30, "cost": 11397, "name": "Emcor", "type": "Hostel", "class": 1, "hotelid": 708, "swimpool": true}
+{"city": 187, "cost": 2727, "name": "Monlinks", "type": "Business", "class": 5, "hotelid": 709, "swimpool": true}
+{"city": 778, "cost": 14581, "name": "Red River Broadcasting", "type": "Guest house", "class": 4, "hotelid": 710, "swimpool": true}
+{"city": 393, "cost": 823, "name": "Mikrotechnic", "type": "Mini", "class": 4, "hotelid": 711, "swimpool": false}
+{"city": 513, "cost": 22711, "name": "Dream Home Real Estate Service", "type": "Mini", "class": 1, "hotelid": 712, "swimpool": true}
+{"city": 760, "cost": 3089, "name": "Pacific Gas & Electric Company (PG&E)", "type": "Motel", "class": 0, "hotelid": 713, "swimpool": true}
+{"city": 831, "cost": 6301, "name": "Wise Appraisals", "type": "Spa", "class": 3, "hotelid": 714, "swimpool": true}
+{"city": 563, "cost": 24378, "name": "L&L Hawaiian Barbecue", "type": "Spa", "class": 1, "hotelid": 715, "swimpool": true}
+{"city": 559, "cost": 2341, "name": "Dean Foods", "type": "Resort", "class": 0, "hotelid": 716, "swimpool": true}
+{"city": 295, "cost": 14761, "name": "Amerigroup", "type": "Motel", "class": 2, "hotelid": 717, "swimpool": true}
+{"city": 839, "cost": 16108, "name": "Life Map Planners", "type": "Resort", "class": 0, "hotelid": 718, "swimpool": false}
+{"city": 39, "cost": 16381, "name": "Abbott Laboratories", "type": "B&B", "class": 5, "hotelid": 719, "swimpool": false}
+{"city": 331, "cost": 17758, "name": "Strategic Profit", "type": "Hostel", "class": 5, "hotelid": 720, "swimpool": true}
+{"city": 813, "cost": 2598, "name": "Northern Star", "type": "B&B", "class": 1, "hotelid": 721, "swimpool": false}
+{"city": 880, "cost": 10019, "name": "Comcast", "type": "Apart", "class": 2, "hotelid": 722, "swimpool": false}
+{"city": 593, "cost": 18637, "name": "Team Designers and Associates", "type": "B&B", "class": 3, "hotelid": 723, "swimpool": true}
+{"city": 894, "cost": 5801, "name": "LeapFrog Enterprises", "type": "Hostel", "class": 0, "hotelid": 724, "swimpool": false}
+{"city": 296, "cost": 17447, "name": "Hornbeck Offshore Services", "type": "Resort", "class": 3, "hotelid": 725, "swimpool": true}
+{"city": 331, "cost": 16181, "name": "Vertex Pharmaceuticals", "type": "B&B", "class": 3, "hotelid": 726, "swimpool": false}
+{"city": 247, "cost": 16535, "name": "Gatorade", "type": "Hostel", "class": 2, "hotelid": 727, "swimpool": false}
+{"city": 86, "cost": 21295, "name": "Testor Corporation", "type": "Hostel", "class": 5, "hotelid": 728, "swimpool": false}
+{"city": 676, "cost": 6126, "name": "WellPoint", "type": "Business", "class": 2, "hotelid": 729, "swimpool": true}
+{"city": 338, "cost": 13883, "name": "Symantec", "type": "Hostel", "class": 3, "hotelid": 730, "swimpool": false}
+{"city": 111, "cost": 10938, "name": "Burger King Holdings", "type": "Resort", "class": 5, "hotelid": 731, "swimpool": true}
+{"city": 451, "cost": 4990, "name": "Pearl Architectural Design", "type": "Spa", "class": 4, "hotelid": 732, "swimpool": true}
+{"city": 994, "cost": 4538, "name": "Abercrombie & Fitch", "type": "Spa", "class": 1, "hotelid": 733, "swimpool": false}
+{"city": 377, "cost": 2926, "name": "Southern California Edison", "type": "Guest house", "class": 5, "hotelid": 734, "swimpool": false}
+{"city": 540, "cost": 22931, "name": "Multicerv", "type": "Mini", "class": 3, "hotelid": 735, "swimpool": true}
+{"city": 542, "cost": 5209, "name": "Forum Communications", "type": "Mini", "class": 1, "hotelid": 736, "swimpool": false}
+{"city": 270, "cost": 20255, "name": "ONEOK", "type": "Business", "class": 1, "hotelid": 737, "swimpool": true}
+{"city": 134, "cost": 4754, "name": "DTE Energy", "type": "Spa", "class": 3, "hotelid": 738, "swimpool": true}
+{"city": 80, "cost": 12845, "name": "Ideal Industries", "type": "Business", "class": 2, "hotelid": 739, "swimpool": true}
+{"city": 115, "cost": 23650, "name": "Cognizant Technology Solutions", "type": "Hostel", "class": 0, "hotelid": 740, "swimpool": false}
+{"city": 553, "cost": 18156, "name": "Growmark", "type": "Hostel", "class": 0, "hotelid": 426, "swimpool": true}
+{"city": 22, "cost": 8203, "name": "Elizabeth Arden", "type": "Business", "class": 0, "hotelid": 743, "swimpool": true}
+{"city": 798, "cost": 19802, "name": "Barnes & Noble", "type": "Mini", "class": 1, "hotelid": 745, "swimpool": true}
+{"city": 346, "cost": 15400, "name": "AMETEK", "type": "Resort", "class": 2, "hotelid": 746, "swimpool": true}
+{"city": 719, "cost": 15280, "name": "Russell Investment Group", "type": "Hostel", "class": 5, "hotelid": 747, "swimpool": true}
+{"city": 537, "cost": 20780, "name": "Adaptas", "type": "Guest house", "class": 2, "hotelid": 748, "swimpool": false}
+{"city": 118, "cost": 14927, "name": "H&R Block", "type": "Hostel", "class": 1, "hotelid": 749, "swimpool": false}
+{"city": 691, "cost": 7081, "name": "Tesla Motors", "type": "Resort", "class": 1, "hotelid": 753, "swimpool": false}
+{"city": 659, "cost": 19320, "name": "Formula Gray", "type": "Hostel", "class": 1, "hotelid": 754, "swimpool": true}
+{"city": 770, "cost": 8746, "name": "Bradley Pharmaceuticals", "type": "B&B", "class": 0, "hotelid": 755, "swimpool": true}
+{"city": 579, "cost": 7496, "name": "Red Bears Tavern", "type": "Guest house", "class": 5, "hotelid": 756, "swimpool": true}
+{"city": 64, "cost": 16180, "name": "Galaxy Man", "type": "Business", "class": 5, "hotelid": 757, "swimpool": true}
+{"city": 282, "cost": 5158, "name": "Total Quality", "type": "Spa", "class": 0, "hotelid": 758, "swimpool": false}
+{"city": 440, "cost": 6706, "name": "Earthworks Garden Kare", "type": "Hostel", "class": 1, "hotelid": 759, "swimpool": true}
+{"city": 117, "cost": 21194, "name": "Whirlpool Corporation", "type": "Motel", "class": 1, "hotelid": 760, "swimpool": false}
+{"city": 378, "cost": 3122, "name": "Monsource", "type": "Guest house", "class": 0, "hotelid": 761, "swimpool": false}
+{"city": 75, "cost": 16632, "name": "Polaris Industries", "type": "Spa", "class": 1, "hotelid": 762, "swimpool": true}
+{"city": 457, "cost": 6589, "name": "Full Color", "type": "Spa", "class": 0, "hotelid": 763, "swimpool": false}
+{"city": 599, "cost": 11039, "name": "Creative Wealth Management", "type": "Spa", "class": 4, "hotelid": 764, "swimpool": false}
+{"city": 166, "cost": 23391, "name": "Monk Home Loans", "type": "Apart", "class": 4, "hotelid": 765, "swimpool": false}
+{"city": 183, "cost": 17987, "name": "Ecolab", "type": "Spa", "class": 3, "hotelid": 766, "swimpool": true}
+{"city": 830, "cost": 2905, "name": "Whataburger", "type": "Business", "class": 2, "hotelid": 767, "swimpool": false}
+{"city": 465, "cost": 12060, "name": "Realty Solution", "type": "Business", "class": 3, "hotelid": 768, "swimpool": false}
+{"city": 737, "cost": 13062, "name": "Mission G", "type": "Hostel", "class": 2, "hotelid": 769, "swimpool": true}
+{"city": 999, "cost": 6300, "name": "UTStarcom", "type": "Apart", "class": 1, "hotelid": 770, "swimpool": false}
+{"city": 173, "cost": 5452, "name": "Tully's Coffee", "type": "B&B", "class": 4, "hotelid": 771, "swimpool": false}
+{"city": 478, "cost": 6801, "name": "Star Merchant Services", "type": "Guest house", "class": 1, "hotelid": 772, "swimpool": true}
+{"city": 168, "cost": 20475, "name": "American Broadcasting Company", "type": "Mini", "class": 4, "hotelid": 773, "swimpool": true}
+{"city": 53, "cost": 8669, "name": "Avis Budget Group", "type": "Apart", "class": 3, "hotelid": 774, "swimpool": true}
+{"city": 153, "cost": 24833, "name": "Beckman Coulter", "type": "Spa", "class": 5, "hotelid": 775, "swimpool": false}
+{"city": 370, "cost": 568, "name": "Entergy", "type": "Mini", "class": 4, "hotelid": 776, "swimpool": true}
+{"city": 78, "cost": 5946, "name": "Alienware", "type": "B&B", "class": 0, "hotelid": 777, "swimpool": true}
+{"city": 61, "cost": 7479, "name": "The Liberty Corporation", "type": "Resort", "class": 4, "hotelid": 778, "swimpool": true}
+{"city": 453, "cost": 11504, "name": "Emerson Electric Company", "type": "Spa", "class": 1, "hotelid": 779, "swimpool": false}
+{"city": 336, "cost": 23515, "name": "The Hertz Corporation", "type": "Mini", "class": 5, "hotelid": 780, "swimpool": true}
+{"city": 33, "cost": 747, "name": "Happy Bear Investment", "type": "Motel", "class": 5, "hotelid": 781, "swimpool": true}
+{"city": 501, "cost": 21808, "name": "Protean", "type": "Apart", "class": 5, "hotelid": 782, "swimpool": true}
+{"city": 98, "cost": 11471, "name": "Universal Design Partners", "type": "Business", "class": 0, "hotelid": 783, "swimpool": false}
+{"city": 174, "cost": 6444, "name": "Ariba", "type": "Motel", "class": 4, "hotelid": 784, "swimpool": false}
+{"city": 20, "cost": 9855, "name": "Stratapro", "type": "Business", "class": 1, "hotelid": 785, "swimpool": false}
+{"city": 584, "cost": 17178, "name": "General Communication", "type": "Spa", "class": 0, "hotelid": 786, "swimpool": true}
+{"city": 604, "cost": 4535, "name": "Locost Accessories", "type": "Motel", "class": 3, "hotelid": 787, "swimpool": true}
+{"city": 737, "cost": 833, "name": "iRobot", "type": "Guest house", "class": 2, "hotelid": 788, "swimpool": true}
+{"city": 177, "cost": 10699, "name": "Intuit", "type": "Guest house", "class": 1, "hotelid": 789, "swimpool": true}
+{"city": 485, "cost": 8096, "name": "Pier 1 Imports", "type": "Resort", "class": 3, "hotelid": 791, "swimpool": false}
+{"city": 841, "cost": 9762, "name": "BlueLinx Holdings", "type": "Hostel", "class": 0, "hotelid": 792, "swimpool": false}
+{"city": 178, "cost": 11525, "name": "Eden Lawn Service", "type": "Hostel", "class": 0, "hotelid": 793, "swimpool": false}
+{"city": 980, "cost": 3184, "name": "Monk Home Improvements", "type": "Mini", "class": 0, "hotelid": 795, "swimpool": true}
+{"city": 590, "cost": 4732, "name": "Pro Yard Services", "type": "B&B", "class": 0, "hotelid": 796, "swimpool": false}
+{"city": 679, "cost": 24307, "name": "Reliable Garden Management", "type": "Spa", "class": 3, "hotelid": 797, "swimpool": true}
+{"city": 976, "cost": 4128, "name": "Strategy Planner", "type": "Mini", "class": 4, "hotelid": 798, "swimpool": true}
+{"city": 182, "cost": 22928, "name": "Integra Investment Service", "type": "Spa", "class": 4, "hotelid": 799, "swimpool": true}
+{"city": 176, "cost": 4378, "name": "Solution Bridge", "type": "Apart", "class": 3, "hotelid": 800, "swimpool": false}
+{"city": 646, "cost": 14327, "name": "The Spotted Cougar", "type": "Hostel", "class": 4, "hotelid": 801, "swimpool": true}
+{"city": 614, "cost": 11276, "name": "Miller Brewing", "type": "Resort", "class": 2, "hotelid": 802, "swimpool": false}
+{"city": 526, "cost": 12998, "name": "Precision Castparts Corporation", "type": "Spa", "class": 1, "hotelid": 803, "swimpool": true}
+{"city": 955, "cost": 7976, "name": "CBS Corporation", "type": "Guest house", "class": 2, "hotelid": 804, "swimpool": true}
+{"city": 115, "cost": 2218, "name": "Multi Tech Development", "type": "Spa", "class": 3, "hotelid": 805, "swimpool": false}
+{"city": 170, "cost": 1176, "name": "Sony Pictures Entertainment", "type": "Hostel", "class": 5, "hotelid": 806, "swimpool": true}
+{"city": 987, "cost": 18334, "name": "Maxi-Tech", "type": "B&B", "class": 3, "hotelid": 807, "swimpool": true}
+{"city": 950, "cost": 22977, "name": "Marathon Oil", "type": "Resort", "class": 5, "hotelid": 808, "swimpool": false}
+{"city": 615, "cost": 2866, "name": "Total Yard Maintenance", "type": "B&B", "class": 5, "hotelid": 809, "swimpool": true}
+{"city": 920, "cost": 10842, "name": "Benesome", "type": "Business", "class": 3, "hotelid": 810, "swimpool": true}
+{"city": 434, "cost": 17456, "name": "Journal Communications", "type": "Motel", "class": 1, "hotelid": 811, "swimpool": false}
+{"city": 129, "cost": 22091, "name": "Regis Corporation", "type": "Spa", "class": 4, "hotelid": 812, "swimpool": false}
+{"city": 975, "cost": 24551, "name": "Bemis Manufacturing Company", "type": "Motel", "class": 5, "hotelid": 813, "swimpool": true}
+{"city": 541, "cost": 15885, "name": "Office Depot", "type": "Hostel", "class": 3, "hotelid": 814, "swimpool": true}
+{"city": 207, "cost": 13166, "name": "DirecTV", "type": "Apart", "class": 4, "hotelid": 815, "swimpool": false}
+{"city": 963, "cost": 2361, "name": "Affinity Investment Group", "type": "Apart", "class": 1, "hotelid": 816, "swimpool": false}
+{"city": 158, "cost": 2228, "name": "ChexSystems", "type": "Guest house", "class": 5, "hotelid": 817, "swimpool": true}
+{"city": 786, "cost": 7918, "name": "Millenia Life", "type": "Mini", "class": 2, "hotelid": 818, "swimpool": true}
+{"city": 322, "cost": 23904, "name": "Google", "type": "Hostel", "class": 3, "hotelid": 819, "swimpool": false}
+{"city": 872, "cost": 16085, "name": "Zaxby's", "type": "Business", "class": 3, "hotelid": 820, "swimpool": true}
+{"city": 162, "cost": 16130, "name": "Chargepal", "type": "Spa", "class": 4, "hotelid": 821, "swimpool": false}
+{"city": 362, "cost": 13208, "name": "Webcom Business Services", "type": "Guest house", "class": 0, "hotelid": 822, "swimpool": true}
+{"city": 795, "cost": 4792, "name": "Strength Gurus", "type": "Spa", "class": 1, "hotelid": 823, "swimpool": true}
+{"city": 507, "cost": 20698, "name": "Chugach Alaska Corporation", "type": "Resort", "class": 0, "hotelid": 824, "swimpool": false}
+{"city": 813, "cost": 10740, "name": "Pointers", "type": "Apart", "class": 1, "hotelid": 825, "swimpool": true}
+{"city": 29, "cost": 16746, "name": "Columbia Pictures", "type": "Motel", "class": 2, "hotelid": 826, "swimpool": false}
+{"city": 911, "cost": 18205, "name": "Asian Fusion", "type": "Guest house", "class": 0, "hotelid": 827, "swimpool": false}
+{"city": 861, "cost": 24401, "name": "Berkshire Hathaway", "type": "Mini", "class": 3, "hotelid": 828, "swimpool": false}
+{"city": 252, "cost": 3955, "name": "Lowe's", "type": "Motel", "class": 5, "hotelid": 829, "swimpool": true}
+{"city": 985, "cost": 19214, "name": "Enterasys Networks", "type": "Guest house", "class": 4, "hotelid": 830, "swimpool": true}
+{"city": 453, "cost": 11765, "name": "Koch Industries", "type": "Business", "class": 3, "hotelid": 831, "swimpool": true}
+{"city": 201, "cost": 10710, "name": "Practi-Plan", "type": "Business", "class": 5, "hotelid": 832, "swimpool": true}
+{"city": 536, "cost": 11228, "name": "Excella", "type": "Resort", "class": 3, "hotelid": 833, "swimpool": true}
+{"city": 617, "cost": 12219, "name": "Arkeia Software", "type": "Business", "class": 4, "hotelid": 834, "swimpool": true}
+{"city": 470, "cost": 21656, "name": "Avery Dennison", "type": "Hostel", "class": 2, "hotelid": 835, "swimpool": true}
+{"city": 627, "cost": 5214, "name": "Expeditors International", "type": "Business", "class": 0, "hotelid": 836, "swimpool": true}
+{"city": 615, "cost": 1352, "name": "Go Daddy", "type": "Spa", "class": 3, "hotelid": 838, "swimpool": true}
+{"city": 754, "cost": 24891, "name": "Riverdeep", "type": "Guest house", "class": 1, "hotelid": 839, "swimpool": true}
+{"city": 253, "cost": 2018, "name": "Freedom Map", "type": "Apart", "class": 1, "hotelid": 840, "swimpool": true}
+{"city": 328, "cost": 3610, "name": "Superior Appraisals", "type": "Business", "class": 4, "hotelid": 841, "swimpool": false}
+{"city": 822, "cost": 13096, "name": "Dollar Tree", "type": "Business", "class": 3, "hotelid": 842, "swimpool": true}
+{"city": 66, "cost": 20522, "name": "Dole Foods", "type": "Motel", "class": 5, "hotelid": 843, "swimpool": true}
+{"city": 472, "cost": 21794, "name": "Grass Roots Yard Services", "type": "Motel", "class": 4, "hotelid": 844, "swimpool": true}
+{"city": 566, "cost": 19490, "name": "Starz", "type": "Business", "class": 5, "hotelid": 845, "swimpool": false}
+{"city": 112, "cost": 20318, "name": "US Airways", "type": "Resort", "class": 4, "hotelid": 846, "swimpool": false}
+{"city": 829, "cost": 8674, "name": "WWE", "type": "Guest house", "class": 0, "hotelid": 847, "swimpool": false}
+{"city": 162, "cost": 22056, "name": "Life Map", "type": "Hostel", "class": 0, "hotelid": 848, "swimpool": true}
+{"city": 555, "cost": 20458, "name": "Universal Studios", "type": "Business", "class": 3, "hotelid": 849, "swimpool": false}
+{"city": 837, "cost": 9588, "name": "Magnavox", "type": "Business", "class": 1, "hotelid": 850, "swimpool": true}
+{"city": 161, "cost": 16812, "name": "Service Corporation International (SCI)", "type": "Mini", "class": 0, "hotelid": 851, "swimpool": true}
+{"city": 104, "cost": 19806, "name": "STX", "type": "Motel", "class": 5, "hotelid": 852, "swimpool": false}
+{"city": 852, "cost": 20196, "name": "Diebold", "type": "Guest house", "class": 3, "hotelid": 853, "swimpool": false}
+{"city": 228, "cost": 11720, "name": "Vibrant Man", "type": "Hostel", "class": 3, "hotelid": 854, "swimpool": true}
+{"city": 94, "cost": 4474, "name": "Dollar General", "type": "Resort", "class": 5, "hotelid": 855, "swimpool": false}
+{"city": 765, "cost": 6531, "name": "Star Bright Investment Group", "type": "Guest house", "class": 0, "hotelid": 856, "swimpool": true}
+{"city": 857, "cost": 19676, "name": "One-Up Realty", "type": "Hostel", "class": 4, "hotelid": 857, "swimpool": true}
+{"city": 830, "cost": 16613, "name": "Salem Communications", "type": "Motel", "class": 2, "hotelid": 858, "swimpool": true}
+{"city": 526, "cost": 11249, "name": "State Street Corporation", "type": "Apart", "class": 3, "hotelid": 859, "swimpool": false}
+{"city": 231, "cost": 11870, "name": "Safeco Corporation", "type": "Hostel", "class": 5, "hotelid": 860, "swimpool": true}
+{"city": 861, "cost": 16159, "name": "Delphi", "type": "Spa", "class": 4, "hotelid": 861, "swimpool": true}
+{"city": 952, "cost": 16253, "name": "Sur La Table", "type": "Mini", "class": 4, "hotelid": 862, "swimpool": false}
+{"city": 388, "cost": 11331, "name": "Brown-Forman Corporation", "type": "Mini", "class": 0, "hotelid": 863, "swimpool": true}
+{"city": 568, "cost": 5345, "name": "Gillette (brand)", "type": "Spa", "class": 2, "hotelid": 864, "swimpool": false}
+{"city": 577, "cost": 23116, "name": "Liberty Wealth Planners", "type": "B&B", "class": 3, "hotelid": 865, "swimpool": true}
+{"city": 584, "cost": 8838, "name": "Chevron", "type": "Business", "class": 0, "hotelid": 866, "swimpool": false}
+{"city": 241, "cost": 17777, "name": "Human Kinetics", "type": "Resort", "class": 1, "hotelid": 867, "swimpool": false}
+{"city": 826, "cost": 11583, "name": "Star Interior Design", "type": "Business", "class": 1, "hotelid": 868, "swimpool": false}
+{"city": 341, "cost": 14605, "name": "Best Buy", "type": "Guest house", "class": 5, "hotelid": 869, "swimpool": true}
+{"city": 628, "cost": 5930, "name": "Russell Stovers", "type": "Business", "class": 0, "hotelid": 870, "swimpool": true}
+{"city": 458, "cost": 4546, "name": "Body Fate", "type": "Business", "class": 0, "hotelid": 871, "swimpool": false}
+{"city": 128, "cost": 10934, "name": "ManCharm", "type": "Motel", "class": 1, "hotelid": 872, "swimpool": true}
+{"city": 160, "cost": 21935, "name": "Open Interface", "type": "Hostel", "class": 1, "hotelid": 873, "swimpool": true}
+{"city": 732, "cost": 21843, "name": "Stratabiz", "type": "Resort", "class": 2, "hotelid": 874, "swimpool": false}
+{"city": 810, "cost": 2606, "name": "Netgear", "type": "Mini", "class": 5, "hotelid": 875, "swimpool": false}
+{"city": 91, "cost": 7372, "name": "Silicon Graphics", "type": "Hostel", "class": 0, "hotelid": 876, "swimpool": false}
+{"city": 475, "cost": 15101, "name": "Colt's Manufacturing Company", "type": "Business", "class": 5, "hotelid": 877, "swimpool": true}
+{"city": 355, "cost": 5425, "name": "Seattle's Best Coffee", "type": "Hostel", "class": 1, "hotelid": 878, "swimpool": true}
+{"city": 812, "cost": 24551, "name": "Intelli Wealth Group", "type": "Spa", "class": 0, "hotelid": 879, "swimpool": false}
+{"city": 965, "cost": 17740, "name": "Amy's Kitchen", "type": "B&B", "class": 0, "hotelid": 880, "swimpool": false}
+{"city": 433, "cost": 23277, "name": "Atari", "type": "Business", "class": 0, "hotelid": 881, "swimpool": false}
+{"city": 58, "cost": 19710, "name": "Bechtel", "type": "Apart", "class": 0, "hotelid": 882, "swimpool": true}
+{"city": 312, "cost": 12608, "name": "Prestiga-Biz", "type": "B&B", "class": 3, "hotelid": 883, "swimpool": false}
+{"city": 905, "cost": 10843, "name": "Memorec", "type": "Spa", "class": 2, "hotelid": 884, "swimpool": true}
+{"city": 361, "cost": 8049, "name": "Monk House Maker", "type": "Mini", "class": 0, "hotelid": 885, "swimpool": true}
+{"city": 908, "cost": 13472, "name": "Dow Jones & Company", "type": "Apart", "class": 3, "hotelid": 886, "swimpool": false}
+{"city": 276, "cost": 781, "name": "KBR", "type": "Guest house", "class": 0, "hotelid": 887, "swimpool": false}
+{"city": 779, "cost": 13769, "name": "World Financial Group", "type": "Hostel", "class": 2, "hotelid": 888, "swimpool": true}
+{"city": 35, "cost": 19436, "name": "AMC Entertainment", "type": "Mini", "class": 5, "hotelid": 889, "swimpool": false}
+{"city": 552, "cost": 17108, "name": "Eli Lilly and Company", "type": "Guest house", "class": 5, "hotelid": 890, "swimpool": false}
+{"city": 10, "cost": 24893, "name": "Konsili", "type": "B&B", "class": 5, "hotelid": 891, "swimpool": false}
+{"city": 366, "cost": 24971, "name": "Marantz", "type": "Spa", "class": 2, "hotelid": 892, "swimpool": false}
+{"city": 789, "cost": 9576, "name": "Limited Brands", "type": "Spa", "class": 2, "hotelid": 893, "swimpool": true}
+{"city": 67, "cost": 6711, "name": "The White Rabbit", "type": "Resort", "class": 5, "hotelid": 894, "swimpool": false}
+{"city": 947, "cost": 4381, "name": "Energizer Holdings", "type": "B&B", "class": 4, "hotelid": 896, "swimpool": false}
+{"city": 551, "cost": 19985, "name": "Agilent Technologies", "type": "Mini", "class": 4, "hotelid": 898, "swimpool": false}
+{"city": 496, "cost": 12081, "name": "Boise Cascade", "type": "B&B", "class": 3, "hotelid": 899, "swimpool": false}
+{"city": 297, "cost": 11977, "name": "Morgan Stanley", "type": "Mini", "class": 1, "hotelid": 900, "swimpool": false}
+{"city": 940, "cost": 1026, "name": "BearingPoint", "type": "Motel", "class": 0, "hotelid": 901, "swimpool": false}
+{"city": 383, "cost": 17795, "name": "Future Plan", "type": "B&B", "class": 5, "hotelid": 902, "swimpool": false}
+{"city": 583, "cost": 24147, "name": "Activision Blizzard", "type": "Hostel", "class": 0, "hotelid": 903, "swimpool": false}
+{"city": 311, "cost": 9029, "name": "American Reprographics Company", "type": "B&B", "class": 2, "hotelid": 904, "swimpool": false}
+{"city": 757, "cost": 20611, "name": "Bed Bath & Beyond", "type": "Mini", "class": 4, "hotelid": 905, "swimpool": true}
+{"city": 892, "cost": 3250, "name": "Twitter", "type": "Motel", "class": 4, "hotelid": 906, "swimpool": false}
+{"city": 361, "cost": 4261, "name": "Future Bright", "type": "Resort", "class": 1, "hotelid": 907, "swimpool": false}
+{"city": 571, "cost": 22087, "name": "Dynegy", "type": "Mini", "class": 2, "hotelid": 908, "swimpool": true}
+{"city": 19, "cost": 24784, "name": "Friendly Interior Design", "type": "Motel", "class": 0, "hotelid": 909, "swimpool": true}
+{"city": 753, "cost": 14634, "name": "Rite Solution", "type": "Resort", "class": 4, "hotelid": 910, "swimpool": true}
+{"city": 473, "cost": 8726, "name": "Maxaprofit", "type": "Business", "class": 0, "hotelid": 911, "swimpool": true}
+{"city": 734, "cost": 21107, "name": "Verizon", "type": "Mini", "class": 2, "hotelid": 912, "swimpool": true}
+{"city": 601, "cost": 2908, "name": "Georgia Pacific", "type": "Apart", "class": 3, "hotelid": 913, "swimpool": true}
+{"city": 797, "cost": 16967, "name": "Magna Architectural Design", "type": "Spa", "class": 3, "hotelid": 914, "swimpool": false}
+{"city": 413, "cost": 8447, "name": "Corinthian Designs", "type": "Motel", "class": 0, "hotelid": 915, "swimpool": false}
+{"city": 29, "cost": 3048, "name": "Sunny Delight Beverages", "type": "B&B", "class": 3, "hotelid": 916, "swimpool": false}
+{"city": 79, "cost": 9586, "name": "New Era Tickets", "type": "Spa", "class": 5, "hotelid": 917, "swimpool": false}
+{"city": 366, "cost": 18981, "name": "Belle Ladi", "type": "Mini", "class": 1, "hotelid": 918, "swimpool": false}
+{"city": 418, "cost": 11879, "name": "XPLANE", "type": "Mini", "class": 4, "hotelid": 919, "swimpool": true}
+{"city": 140, "cost": 9149, "name": "Omni Source", "type": "Resort", "class": 1, "hotelid": 920, "swimpool": true}
+{"city": 720, "cost": 2441, "name": "Hilton Hotels Corporation", "type": "B&B", "class": 5, "hotelid": 921, "swimpool": false}
+{"city": 873, "cost": 11235, "name": "Access Asia", "type": "Guest house", "class": 5, "hotelid": 923, "swimpool": true}
+{"city": 38, "cost": 19882, "name": "Sexsi Senorita", "type": "Resort", "class": 5, "hotelid": 924, "swimpool": false}
+{"city": 600, "cost": 8970, "name": "MegaSolutions", "type": "Hostel", "class": 0, "hotelid": 927, "swimpool": false}
+{"city": 535, "cost": 11435, "name": "Avant Garde Appraisal Group", "type": "B&B", "class": 1, "hotelid": 928, "swimpool": false}
+{"city": 563, "cost": 10907, "name": "Netstars Matrix Design", "type": "Mini", "class": 2, "hotelid": 929, "swimpool": true}
+{"city": 2, "cost": 1387, "name": "BMC Software", "type": "Resort", "class": 3, "hotelid": 931, "swimpool": true}
+{"city": 394, "cost": 14315, "name": "Dun & Bradstreet", "type": "Spa", "class": 0, "hotelid": 932, "swimpool": false}
+{"city": 228, "cost": 21377, "name": "Integra Wealth Planners", "type": "Resort", "class": 5, "hotelid": 933, "swimpool": false}
+{"city": 784, "cost": 9650, "name": "Midway Games", "type": "Mini", "class": 4, "hotelid": 935, "swimpool": true}
+{"city": 519, "cost": 13677, "name": "Vaughan & Bushnell Manufacturing", "type": "Spa", "class": 0, "hotelid": 936, "swimpool": false}
+{"city": 855, "cost": 17687, "name": "Integra Design", "type": "Spa", "class": 3, "hotelid": 937, "swimpool": false}
+{"city": 835, "cost": 16499, "name": "Allen Organ Company", "type": "Guest house", "class": 3, "hotelid": 938, "swimpool": true}
+{"city": 878, "cost": 2886, "name": "E-zhe Source", "type": "Guest house", "class": 4, "hotelid": 939, "swimpool": false}
+{"city": 21, "cost": 15144, "name": "Firestone Tire and Rubber Company", "type": "B&B", "class": 5, "hotelid": 940, "swimpool": false}
+{"city": 441, "cost": 10090, "name": "Infinity Investment Plan", "type": "Motel", "class": 0, "hotelid": 941, "swimpool": false}
+{"city": 699, "cost": 23980, "name": "Interplay Entertainment", "type": "Resort", "class": 2, "hotelid": 942, "swimpool": true}
+{"city": 710, "cost": 24272, "name": "Local Matters", "type": "Motel", "class": 0, "hotelid": 943, "swimpool": true}
+{"city": 824, "cost": 18695, "name": "Fragrant Flower Lawn Services", "type": "Hostel", "class": 2, "hotelid": 944, "swimpool": false}
+{"city": 111, "cost": 12764, "name": "Office Max", "type": "Business", "class": 2, "hotelid": 945, "swimpool": true}
+{"city": 112, "cost": 5626, "name": "International Business Machines (IBM)", "type": "B&B", "class": 5, "hotelid": 946, "swimpool": false}
+{"city": 336, "cost": 8165, "name": "General Electric", "type": "Apart", "class": 5, "hotelid": 947, "swimpool": false}
+{"city": 938, "cost": 2374, "name": "Onvia", "type": "Mini", "class": 2, "hotelid": 948, "swimpool": true}
+{"city": 310, "cost": 18541, "name": "Magik Grey", "type": "Mini", "class": 2, "hotelid": 949, "swimpool": false}
+{"city": 935, "cost": 18667, "name": "Gas Legion", "type": "B&B", "class": 4, "hotelid": 950, "swimpool": false}
+{"city": 917, "cost": 12414, "name": "Nutri G", "type": "Motel", "class": 0, "hotelid": 951, "swimpool": false}
+{"city": 178, "cost": 4667, "name": "Pro Property Maintenance", "type": "B&B", "class": 3, "hotelid": 952, "swimpool": false}
+{"city": 622, "cost": 1643, "name": "Arrow Electronics", "type": "Guest house", "class": 0, "hotelid": 953, "swimpool": false}
+{"city": 700, "cost": 16634, "name": "VitaGrey", "type": "Hostel", "class": 1, "hotelid": 954, "swimpool": false}
+{"city": 250, "cost": 23282, "name": "Boston Scientific", "type": "Hostel", "class": 4, "hotelid": 955, "swimpool": false}
+{"city": 686, "cost": 17746, "name": "Verizon Wireless", "type": "Hostel", "class": 4, "hotelid": 956, "swimpool": true}
+{"city": 883, "cost": 21567, "name": "The White Swan", "type": "Hostel", "class": 5, "hotelid": 957, "swimpool": true}
+{"city": 259, "cost": 22144, "name": "DC Comics", "type": "Apart", "class": 5, "hotelid": 958, "swimpool": true}
+{"city": 128, "cost": 24855, "name": "Arch Coal", "type": "Motel", "class": 4, "hotelid": 959, "swimpool": true}
+{"city": 779, "cost": 10744, "name": "Louisiana Pacific", "type": "Mini", "class": 5, "hotelid": 961, "swimpool": true}
+{"city": 265, "cost": 12731, "name": "Accuquote", "type": "B&B", "class": 5, "hotelid": 962, "swimpool": false}
+{"city": 431, "cost": 4717, "name": "facebook", "type": "Spa", "class": 1, "hotelid": 963, "swimpool": true}
+{"city": 337, "cost": 2269, "name": "American Electric Power", "type": "Business", "class": 0, "hotelid": 964, "swimpool": true}
+{"city": 459, "cost": 3379, "name": "Butler America", "type": "Business", "class": 1, "hotelid": 965, "swimpool": false}
+{"city": 817, "cost": 6183, "name": "Newhair", "type": "Business", "class": 3, "hotelid": 966, "swimpool": false}
+{"city": 939, "cost": 17090, "name": "Novellus Systems", "type": "Apart", "class": 4, "hotelid": 967, "swimpool": true}
+{"city": 739, "cost": 10024, "name": "Plan Smart", "type": "Spa", "class": 2, "hotelid": 968, "swimpool": true}
+{"city": 654, "cost": 18681, "name": "Klipsch Audio Technologies", "type": "Motel", "class": 3, "hotelid": 969, "swimpool": true}
+{"city": 497, "cost": 15749, "name": "Lee (jeans)", "type": "Spa", "class": 3, "hotelid": 970, "swimpool": true}
+{"city": 845, "cost": 6217, "name": "Fidelity Investments", "type": "Business", "class": 5, "hotelid": 971, "swimpool": false}
+{"city": 2, "cost": 8366, "name": "Martin Marietta Materials", "type": "Hostel", "class": 4, "hotelid": 973, "swimpool": false}
+{"city": 488, "cost": 17451, "name": "Minnesota IMPLAN Group", "type": "Hostel", "class": 2, "hotelid": 974, "swimpool": false}
+{"city": 154, "cost": 24304, "name": "Medimix International", "type": "Motel", "class": 5, "hotelid": 975, "swimpool": false}
+{"city": 642, "cost": 3301, "name": "TransDigm Group", "type": "Guest house", "class": 0, "hotelid": 976, "swimpool": true}
+{"city": 25, "cost": 6108, "name": "Vari-Tec", "type": "Mini", "class": 4, "hotelid": 977, "swimpool": false}
+{"city": 998, "cost": 14378, "name": "ADC Telecommunications", "type": "Business", "class": 1, "hotelid": 979, "swimpool": false}
+{"city": 775, "cost": 8669, "name": "Seagate Technology", "type": "Hostel", "class": 0, "hotelid": 980, "swimpool": false}
+{"city": 952, "cost": 12485, "name": "Awthentikz", "type": "Spa", "class": 4, "hotelid": 981, "swimpool": true}
+{"city": 815, "cost": 9197, "name": "Capital One", "type": "Mini", "class": 4, "hotelid": 982, "swimpool": false}
+{"city": 982, "cost": 21587, "name": "Fruit of the Loom", "type": "Hostel", "class": 1, "hotelid": 983, "swimpool": false}
+{"city": 946, "cost": 24553, "name": "Shirokiya", "type": "Guest house", "class": 2, "hotelid": 984, "swimpool": true}
+{"city": 141, "cost": 20206, "name": "QVC", "type": "Resort", "class": 1, "hotelid": 985, "swimpool": false}
+{"city": 831, "cost": 1357, "name": "Archer Daniels Midland", "type": "Spa", "class": 4, "hotelid": 986, "swimpool": false}
+{"city": 484, "cost": 9857, "name": "Gamma Gas", "type": "Business", "class": 5, "hotelid": 987, "swimpool": false}
+{"city": 32, "cost": 8977, "name": "AT&T", "type": "Business", "class": 3, "hotelid": 988, "swimpool": false}
+{"city": 95, "cost": 18631, "name": "KPMG", "type": "B&B", "class": 1, "hotelid": 990, "swimpool": true}
+{"city": 48, "cost": 3624, "name": "GEICO", "type": "Guest house", "class": 0, "hotelid": 991, "swimpool": false}
+{"city": 731, "cost": 21587, "name": "Publix", "type": "Spa", "class": 3, "hotelid": 992, "swimpool": false}
+{"city": 336, "cost": 24810, "name": "Pinnacle Systems", "type": "B&B", "class": 0, "hotelid": 993, "swimpool": true}
+{"city": 239, "cost": 6183, "name": "Quality Event Planner", "type": "Spa", "class": 3, "hotelid": 994, "swimpool": true}
+{"city": 851, "cost": 21917, "name": "Gibson Guitar Corporation", "type": "B&B", "class": 2, "hotelid": 995, "swimpool": true}
+{"city": 815, "cost": 1426, "name": "RCA", "type": "Resort", "class": 0, "hotelid": 996, "swimpool": true}
+{"city": 603, "cost": 20442, "name": "Aspyr Media", "type": "Guest house", "class": 5, "hotelid": 997, "swimpool": false}
+{"city": 67, "cost": 13559, "name": "Vizio", "type": "Mini", "class": 4, "hotelid": 999, "swimpool": false}
+{"city": 469, "cost": 7897, "name": "American Axle", "type": "Business", "class": 2, "hotelid": 1000, "swimpool": false}
+{"city": 673, "cost": 4950, "name": "Southwest Airlines", "type": "Apart", "class": 2, "hotelid": 978, "swimpool": true}
+{"city": 483, "cost": 19114, "name": "Electronics Source", "type": "Mini", "class": 3, "hotelid": 989, "swimpool": true}
+{"city": 846, "cost": 24522, "name": "FedEx", "type": "Resort", "class": 3, "hotelid": 227, "swimpool": true}
+{"city": 553, "cost": 7482, "name": "Realty Zone", "type": "Business", "class": 4, "hotelid": 84, "swimpool": true}
+{"city": 449, "cost": 12770, "name": "LinkedIn", "type": "Resort", "class": 2, "hotelid": 101, "swimpool": true}
+{"city": 422, "cost": 17933, "name": "Wealthy Ideas", "type": "Guest house", "class": 4, "hotelid": 930, "swimpool": false}
+{"city": 901, "cost": 13751, "name": "EMC Corporation", "type": "Mini", "class": 5, "hotelid": 934, "swimpool": true}
+{"city": 245, "cost": 3945, "name": "Taco Tico", "type": "B&B", "class": 5, "hotelid": 972, "swimpool": true}
+{"city": 749, "cost": 2944, "name": "FreeWave Technologies", "type": "Spa", "class": 0, "hotelid": 925, "swimpool": false}
+{"city": 126, "cost": 18262, "name": "Advance Auto Parts", "type": "B&B", "class": 1, "hotelid": 250, "swimpool": false}
+{"city": 186, "cost": 8818, "name": "Red Hat", "type": "Mini", "class": 5, "hotelid": 98, "swimpool": true}
+{"city": 449, "cost": 9584, "name": "Bucyrus International", "type": "Mini", "class": 1, "hotelid": 552, "swimpool": true}
+{"city": 846, "cost": 14340, "name": "Calista Corporation", "type": "Apart", "class": 5, "hotelid": 232, "swimpool": true}
+{"city": 194, "cost": 7706, "name": "Arryx", "type": "Apart", "class": 5, "hotelid": 261, "swimpool": false}
+{"city": 771, "cost": 16303, "name": "VIZ Media", "type": "Motel", "class": 2, "hotelid": 998, "swimpool": false}
+{"city": 667, "cost": 12517, "name": "Grade A Investment", "type": "Resort", "class": 0, "hotelid": 572, "swimpool": false}
+{"city": 673, "cost": 2795, "name": "Ace Hardware", "type": "Business", "class": 5, "hotelid": 491, "swimpool": true}
+{"city": 871, "cost": 1071, "name": "Pantone", "type": "Mini", "class": 2, "hotelid": 492, "swimpool": true}
+{"city": 771, "cost": 5920, "name": "Datacorp", "type": "Business", "class": 0, "hotelid": 493, "swimpool": false}
+{"city": 194, "cost": 21092, "name": "Bio-Rad Laboratories", "type": "Hostel", "class": 3, "hotelid": 497, "swimpool": false}
+{"city": 124, "cost": 8859, "name": "Good Times", "type": "Business", "class": 5, "hotelid": 520, "swimpool": false}
+{"city": 901, "cost": 1547, "name": "American Eagle Outfitters", "type": "Apart", "class": 2, "hotelid": 538, "swimpool": false}
+{"city": 186, "cost": 5577, "name": "VF Corporation", "type": "Spa", "class": 0, "hotelid": 468, "swimpool": false}
+{"city": 871, "cost": 6657, "name": "Netcordia", "type": "Motel", "class": 1, "hotelid": 471, "swimpool": true}
+{"city": 901, "cost": 11437, "name": "Omni Group", "type": "Guest house", "class": 2, "hotelid": 922, "swimpool": true}
+{"city": 667, "cost": 3273, "name": "Intelacard", "type": "B&B", "class": 4, "hotelid": 741, "swimpool": false}
+{"city": 364, "cost": 659, "name": "PC Power and Cooling", "type": "Business", "class": 5, "hotelid": 926, "swimpool": true}
+{"city": 245, "cost": 21508, "name": "Harley-Davidson", "type": "Motel", "class": 3, "hotelid": 614, "swimpool": true}
+{"city": 846, "cost": 12030, "name": "General Motors", "type": "B&B", "class": 1, "hotelid": 626, "swimpool": true}
+{"city": 901, "cost": 853, "name": "Nationwide Insurance", "type": "Guest house", "class": 1, "hotelid": 658, "swimpool": false}
+{"city": 126, "cost": 7663, "name": "Dippin' Dots", "type": "Apart", "class": 3, "hotelid": 681, "swimpool": false}
+{"city": 667, "cost": 13833, "name": "Biomet", "type": "B&B", "class": 5, "hotelid": 683, "swimpool": true}
+{"city": 280, "cost": 1825, "name": "Suadela Investment", "type": "B&B", "class": 2, "hotelid": 701, "swimpool": false}
+{"city": 673, "cost": 13637, "name": "Sears", "type": "Mini", "class": 5, "hotelid": 742, "swimpool": true}
+{"city": 667, "cost": 14226, "name": "The Pink Pig Tavern", "type": "Business", "class": 2, "hotelid": 744, "swimpool": false}
+{"city": 771, "cost": 21185, "name": "Gas Zone", "type": "Apart", "class": 2, "hotelid": 750, "swimpool": false}
+{"city": 272, "cost": 5811, "name": "Buena Vista Garden Maintenance", "type": "Hostel", "class": 4, "hotelid": 751, "swimpool": false}
+{"city": 422, "cost": 15120, "name": "The Goose and Duck", "type": "Apart", "class": 5, "hotelid": 752, "swimpool": true}
+{"city": 483, "cost": 13362, "name": "Overcast Media", "type": "Hostel", "class": 1, "hotelid": 252, "swimpool": false}
+{"city": 483, "cost": 23987, "name": "Asian Junction", "type": "Business", "class": 4, "hotelid": 263, "swimpool": true}
+{"city": 771, "cost": 13979, "name": "Quest Software", "type": "Spa", "class": 2, "hotelid": 429, "swimpool": false}
+{"city": 245, "cost": 564, "name": "Enviro Architectural Designs", "type": "B&B", "class": 5, "hotelid": 438, "swimpool": false}
+{"city": 186, "cost": 23474, "name": "AMR Corporation", "type": "Mini", "class": 0, "hotelid": 93, "swimpool": false}
+{"city": 553, "cost": 5776, "name": "Electronic Data Systems", "type": "Mini", "class": 0, "hotelid": 100, "swimpool": true}
+{"city": 280, "cost": 14964, "name": "Muscle Factory", "type": "Mini", "class": 3, "hotelid": 117, "swimpool": true}
+{"city": 194, "cost": 11456, "name": "AOL", "type": "Business", "class": 4, "hotelid": 138, "swimpool": true}
+{"city": 194, "cost": 2859, "name": "MTX Audio", "type": "Motel", "class": 0, "hotelid": 142, "swimpool": true}
+{"city": 126, "cost": 2355, "name": "Pro Star Garden Management", "type": "B&B", "class": 1, "hotelid": 147, "swimpool": true}
+{"city": 749, "cost": 17448, "name": "Converse", "type": "Hostel", "class": 2, "hotelid": 149, "swimpool": false}
+{"city": 364, "cost": 574, "name": "Rockford Fosgate", "type": "Business", "class": 3, "hotelid": 172, "swimpool": false}
+{"city": 364, "cost": 14929, "name": "Vulcan Corporation", "type": "Motel", "class": 1, "hotelid": 180, "swimpool": false}
+{"city": 186, "cost": 4714, "name": "Formula Grey", "type": "Mini", "class": 1, "hotelid": 599, "swimpool": false}
+{"city": 245, "cost": 17807, "name": "OSI Restaurant Partners", "type": "Hostel", "class": 5, "hotelid": 459, "swimpool": true}
+{"city": 449, "cost": 17742, "name": "Magna Gases", "type": "Hostel", "class": 1, "hotelid": 488, "swimpool": true}
+{"city": 272, "cost": 6411, "name": "Merrymaking", "type": "Apart", "class": 3, "hotelid": 201, "swimpool": true}
+{"city": 749, "cost": 3897, "name": "Frontier Airlines", "type": "B&B", "class": 3, "hotelid": 221, "swimpool": true}
+{"city": 272, "cost": 3319, "name": "Total Serve", "type": "Resort", "class": 0, "hotelid": 281, "swimpool": true}
+{"city": 402, "cost": 7371, "name": "Monk House Sales", "type": "Hostel", "class": 3, "hotelid": 299, "swimpool": true}
+{"city": 871, "cost": 18935, "name": "Royal Gas", "type": "Hostel", "class": 4, "hotelid": 301, "swimpool": true}
+{"city": 449, "cost": 836, "name": "Autoliv", "type": "Spa", "class": 1, "hotelid": 305, "swimpool": true}
+{"city": 871, "cost": 9029, "name": "Gamma Realty", "type": "Guest house", "class": 2, "hotelid": 313, "swimpool": false}
+{"city": 846, "cost": 14662, "name": "Rite Aid Corporation", "type": "Motel", "class": 5, "hotelid": 321, "swimpool": false}
+{"city": 124, "cost": 1763, "name": "Golden Joy", "type": "Resort", "class": 5, "hotelid": 322, "swimpool": true}
+{"city": 483, "cost": 20127, "name": "Columbia Sussex", "type": "Motel", "class": 4, "hotelid": 352, "swimpool": true}
+{"city": 771, "cost": 14375, "name": "Asian Plan", "type": "Business", "class": 3, "hotelid": 366, "swimpool": false}
+{"city": 402, "cost": 15238, "name": "Laserfiche", "type": "Mini", "class": 4, "hotelid": 369, "swimpool": false}
+{"city": 673, "cost": 22326, "name": "Zephyr Investments", "type": "Guest house", "class": 1, "hotelid": 377, "swimpool": false}
+{"city": 402, "cost": 15824, "name": "Microcat", "type": "Resort", "class": 2, "hotelid": 381, "swimpool": true}
+{"city": 553, "cost": 550, "name": "Assurant", "type": "Apart", "class": 2, "hotelid": 384, "swimpool": false}
+{"city": 272, "cost": 650, "name": "BlackRock", "type": "Guest house", "class": 5, "hotelid": 405, "swimpool": false}
+{"city": 402, "cost": 10130, "name": "Electric Boat", "type": "Motel", "class": 2, "hotelid": 422, "swimpool": true}
+{"city": 126, "cost": 9076, "name": "Gemini Sound Products", "type": "Spa", "class": 0, "hotelid": 895, "swimpool": true}
+{"city": 364, "cost": 7699, "name": "CDI Corporation", "type": "Guest house", "class": 3, "hotelid": 8, "swimpool": false}
+{"city": 749, "cost": 21460, "name": "Fender Musical Instruments Corporation", "type": "Guest house", "class": 5, "hotelid": 44, "swimpool": true}
+{"city": 422, "cost": 23045, "name": "ABM Industries", "type": "Resort", "class": 0, "hotelid": 46, "swimpool": false}
+{"city": 749, "cost": 10202, "name": "Jack in the Box", "type": "Motel", "class": 5, "hotelid": 273, "swimpool": true}
